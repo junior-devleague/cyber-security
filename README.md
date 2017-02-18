@@ -8,6 +8,7 @@ Cyber Security Training Resources
 - Simple beginner exercise: explain routers' vulnerability to DNS poisoning and show how to configure network settings to use Google DNS.
 - Using [lynis](https://cisofy.com/download/lynis/) to see vulnerabilities in Linux OSes.
 - Netstat and how to use it to see incoming connections.
+- `nmap -sV` a computer to see what information it broadcasts about its ports and services
 - Using [Scapy](http://www.secdev.org/projects/scapy/) to forge packets
 - Using wireshark to sniff traffic
 - Inspect the source code of e.g. Flask for security updates. Look at what was changed and why. [Flask Source](https://github.com/pallets/flask)
