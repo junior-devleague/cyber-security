@@ -9,6 +9,7 @@ Cyber Security Training Resources
 - Using [lynis](https://cisofy.com/download/lynis/) to see vulnerabilities in Linux OSes.
 - Netstat and how to use it to see incoming connections.
 - `nmap -sV` a computer to see what information it broadcasts about its ports and services
+- Any other exercises from [linuxsecurity.com](http://www.linuxsecurity.com/content/view/159045/171/) (especially how to find all instances of 777 permissions on the machine)
 - Using [Scapy](http://www.secdev.org/projects/scapy/) to forge packets
 - Using wireshark to sniff traffic
 - Inspect the source code of e.g. Flask for security updates. Look at what was changed and why. [Flask Source](https://github.com/pallets/flask)
