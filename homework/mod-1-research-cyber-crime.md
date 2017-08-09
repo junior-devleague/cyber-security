@@ -12,4 +12,4 @@ You're a news reporter tasked to research various topics of cyber crime and writ
   3. What were your personal feelings about this crime? 
 - A few example topics could be cyber bullying, recent cyber attacks, cyberwarfare, and more. Try to pick one topic to research in depth.
 
-### Due Date: 8/11/17
+### Due Date: 8/14/17
