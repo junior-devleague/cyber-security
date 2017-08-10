@@ -1,9 +1,9 @@
-#Week 1
+# Class Recap - Week 1 - 8/10/2017
 
-###Topics
+### Topics
 
-###Resources
+### Resources
 
-###Homework
+### Homework
 Link
 *Due Date:* 9/14/2017
