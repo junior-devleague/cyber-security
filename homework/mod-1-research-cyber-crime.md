@@ -13,3 +13,5 @@ You're a news reporter tasked to research various topics of cyber crime and writ
 - A few example topics could be cyber bullying, recent cyber attacks, cyberwarfare, and more. Try to pick one topic to research in depth.
 
 ### Due Date: 8/14/17
+- Post url to blog post in Slack by end of school day.
+- No late  assignments accepted.
