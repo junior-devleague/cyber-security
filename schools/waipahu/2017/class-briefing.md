@@ -1,5 +1,5 @@
 ## Class Recap 8/9/17
-Today was first day of class. We went over the following topics:
+Today was first day of instruction. We went over the following topics:
 - Slack & code of conduct. Students are expected to have slack open during class and communicate with instructors for help or if they are going to be absent.
 - Expectations of students & signing the cyber code of conduct. You MUST have that signed by start of next class in order to attend lecture.
 - Schedule of homework and quizes. Blogs assigned every Monday due that Friday. Quizes will be every other Wednesday.
