@@ -5,5 +5,5 @@ Today was first day of class. We went over the following topics:
 - Topics that we will be covering during the coarse & topics we will not cover ex. How to crack passwords.
 - Explained the goal of this coarse is to learn how to play defense in the cyber world and protect yourself. Explained the repercussions of bad choices made in the cyber world.
 
-**Homework: Blog 1 has been assigned & due 9/14/17** - Submit the url to your blog post in Slack by end of school day Monday
+**Homework: Blog 1 has been assigned & due 9/14/17** - Check homework folder for details on assignment. Submit the url to your blog post in Slack by end of school day Monday
 
