@@ -26,7 +26,12 @@ Today was the first day of instruction. Format of the class was as follows:
 
 **Homework: Blog 1 has been assigned with a due date of 8/18/2017**
 
-[Instructor Pre-Agenda Guide](https://gist.github.com/jaywon/67f261bcb5efa4b87f15fd3d4fa8932a)
+### Homework
+[Find Your Cyber Interest Assignment](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-0-research-cyber-general.md)
+
+**Due Date:** 8/18/2017
+- Submit the url to your blog post in Slack by end of school day Monday 8/18/17.
+- No late assignments accepted.
 
 ### Resources
 [WannaCry Virus](https://www.youtube.com/watch?v=apTo3-nqHzE&feature=youtu.be)
@@ -37,9 +42,4 @@ Today was the first day of instruction. Format of the class was as follows:
 
 [Marcus Hutchins Analysis](https://www.youtube.com/watch?v=X-YJxwFYnxs)
 
-### Homework
-[Find Your Cyber Interest Assignment](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-0-research-cyber-general.md)
-
-**Due Date:** 8/18/2017
-- Submit the url to your blog post in Slack by end of school day Monday 8/18/17.
-- No late assignments accepted.
+[Instructor Pre-Agenda Guide](https://gist.github.com/jaywon/67f261bcb5efa4b87f15fd3d4fa8932a)
