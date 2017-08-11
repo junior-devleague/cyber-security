@@ -40,6 +40,6 @@ Today was the first day of instruction. Format of the class was as follows:
 ### Homework
 [Find Your Cyber Interest Assignment](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-0-research-cyber-general.md)
 
-*Due Date:* 8/18/2017
+**Due Date:** 8/18/2017
 - Submit the url to your blog post in Slack by end of school day Monday 8/18/17.
 - No late assignments accepted.
