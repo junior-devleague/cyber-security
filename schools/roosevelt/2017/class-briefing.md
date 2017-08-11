@@ -30,8 +30,11 @@ Today was the first day of instruction. Format of the class was as follows:
 
 ### Resources
 [WannaCry Virus](https://www.youtube.com/watch?v=apTo3-nqHzE&feature=youtu.be)
+
 [Marcus Hutchins Praise](https://www.youtube.com/watch?v=h5dNdnG_t1U)
+
 [Marcus Hutchins Arrest](https://www.youtube.com/watch?v=-D3Rhf4GRMM)
+
 [Marcus Hutchins Analysis](https://www.youtube.com/watch?v=X-YJxwFYnxs)
 
 ### Homework
