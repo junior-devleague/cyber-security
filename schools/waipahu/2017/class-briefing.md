@@ -12,7 +12,7 @@ Today was first day of instruction. We went over the following topics:
 - No late assignments accepted.
 
 
-# Class Recap - Week 2 - 8/11/2017 11:00am - 12:20pm
+# Class Recap - Week 1 - 8/11/2017 11:00am - 12:20pm
 
 ### Topics
 Format of the class was as follows:
