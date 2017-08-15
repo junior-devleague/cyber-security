@@ -65,3 +65,5 @@ Format of the class was as follows:
 
 [Tor Browser](https://www.torproject.org/projects/torbrowser.html#windows)
 
+[Hacker News](https://github.com/junior-devleague/cyber-security/blob/master/schools/waipahu/2017/class-briefing.md)
+
