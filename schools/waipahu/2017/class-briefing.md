@@ -63,3 +63,5 @@ Format of the class was as follows:
 ### Resources
 [What is a VPN](https://nordvpn.com/faq/)
 
+[Tor Browser](https://www.torproject.org/projects/torbrowser.html#windows)
+
