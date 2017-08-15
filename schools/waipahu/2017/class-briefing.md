@@ -40,3 +40,26 @@ Format of the class was as follows:
 [OnePassword](https://1password.com/)
 
 [Guide To Hashing algorithms](http://unixwiz.net/techtips/iguide-crypto-hashes.html)
+
+
+# Class Recap - Week 2 - 8/14/2017 11:00a  - 12:20pm
+
+### Topics
+Format of the class was as follows:
+- Covered ethics in cyber space by running through security scenarios / How to make smart choices
+- Introduced browser enchancements such as Https Everywhere, how it works, why use Https and enforcing a pattern to always be checking for Https connections when visiting sites. If not Https connection, don't submit any kind of information as its completely visable.
+- Covered creating your own security layer using tools such as VPN, proxy server, tor browser, anonymous search engines, incognito browser, and more. Explained how each of these work and demonstrated with examples.
+
+
+**Homework: Blog 2 is due 8/18/17**
+
+### Homework
+[How the Internet Works](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-2-how-internet-works.md)
+
+**Due Date:** 8/18/2017
+- Submit the url to your blog post in Slack by end of school day Monday 8/14/17.
+- No late assignments accepted.
+
+### Resources
+[What is a VPN](https://nordvpn.com/faq/)
+
