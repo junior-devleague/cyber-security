@@ -57,7 +57,7 @@ Format of the class was as follows:
 [How the Internet Works](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-2-how-internet-works.md)
 
 **Due Date:** 8/18/2017
-- Submit the url to your blog post in Slack by end of school day Monday 8/14/17.
+- Submit the url to your blog post in Slack by end of school day Friday 8/18/17.
 - No late assignments accepted.
 
 ### Resources
