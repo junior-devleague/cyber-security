@@ -67,7 +67,7 @@ Format of the class was as follows:
 
 [Hacker News](https://github.com/junior-devleague/cyber-security/blob/master/schools/waipahu/2017/class-briefing.md)
 
-# Class Recap - Week 2 - 8/16/2017 11:12a  - 12:38pm
+# Class Recap - Week 2 - 8/16/2017 11:12am  - 12:38pm
 
 ### Topics
 Format of the class was as follows:
