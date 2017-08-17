@@ -67,3 +67,29 @@ Format of the class was as follows:
 
 [Hacker News](https://github.com/junior-devleague/cyber-security/blob/master/schools/waipahu/2017/class-briefing.md)
 
+# Class Recap - Week 2 - 8/16/2017 11:12a  - 12:38pm
+
+### Topics
+Format of the class was as follows:
+- Covered securing your home network.
+- Starting covering networking explaing devices such as networks, servers, switches, and routers. Went in depth on each of these and how they work.
+- Will continue networking next week.
+
+
+**Homework Reminder: Blog 2 is due 8/18/17**
+
+### Homework
+[How the Internet Works](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-2-how-internet-works.md)
+
+**Due Date:** 8/18/2017
+- Submit the url to your blog post in Slack by end of school day Friday 8/18/17.
+- No late assignments accepted.
+
+### Resources
+
+[Securing Your Network](https://www.us-cert.gov/ncas/tips/ST15-002)
+
+[OSI Model](https://support.microsoft.com/en-us/help/103884/the-osi-model-s-seven-layers-defined-and-functions-explained)
+
+
+
