@@ -43,3 +43,32 @@ Today was the first day of instruction. Format of the class was as follows:
 [Marcus Hutchins Analysis](https://www.youtube.com/watch?v=X-YJxwFYnxs)
 
 [Instructor Pre-Agenda Guide](https://gist.github.com/jaywon/67f261bcb5efa4b87f15fd3d4fa8932a)
+
+# Class Recap - Week 2 - 8/15/2017 8AM - 9.25AM
+- What is phishing?
+- Introduction of Cyber Gaurdians and talk about focus of class on becoming Jr. Gaurdians
+- **Reinforce importance of asking questions and a curious mindset!!!**
+- Discussion of what is pentesting or penetration testing?
+- Demonstration/Talk about web scraping, web crawling
+- Discussion about basic architecture of the internet
+- Discussion about OSINT, information gathering and initial stages of reconnaissance
+- Introduction to Google Hacking and OSINT websites
+- 15-20 minute class activity of doing OSINT on a select target
+- Basic operators:
+```
+    inurl:
+    allinurl:
+    intitle:
+    allintitle:
+    filetype:
+    intext:
+    site:
+    link:
+    numrange:
+    daterange:
+```
+
+[Instructor Pre-Agenda](https://gist.github.com/jaywon/0bd0651b04cce961cca97ae3ba8fbe26)
+
+### Resources
+[Google](https://google.com) *All you need for endless activities)
