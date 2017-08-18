@@ -95,4 +95,5 @@ Today was the first day of instruction. Format of the class was as follows:
 [Instructor Pre-Agenda](https://gist.github.com/jaywon/66a678e1a692200fa5a42c95425ec319)
 
 ### Resources
+[Cyber Patriot Information](https://www.uscyberpatriot.org/competition/Competition-Overview/how-the-competition-works)
 [Official Air Force Online Safety Guide](https://volunteer.uscyberpatriot.org/Volunteer%20Documents/Unit%202%20-%20Introduction%20to%20Online%20Safety.pdf)
