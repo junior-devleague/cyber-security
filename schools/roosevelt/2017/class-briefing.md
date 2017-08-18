@@ -71,4 +71,28 @@ Today was the first day of instruction. Format of the class was as follows:
 [Instructor Pre-Agenda](https://gist.github.com/jaywon/0bd0651b04cce961cca97ae3ba8fbe26)
 
 ### Resources
-[Google](https://google.com) *All you need for endless activities)
+[Google](https://google.com) *All you need for endless activities
+
+# Class Recap - Week 2 - 8/17/2017 8AM - 9.25AM
+- Brief recap of intent of Medium articles is more about curiosity and expression than the style or content of the writing
+- Guaged interest in Cyber Patriot program and agreed as a class that we will participate in the competition. Will start prepping towards competition in November.
+- Finished previous class exericise of OSINT using freely available search tools and google hacking or "googledorks"
+- Split up class of online safety topics into groups of 2-3 within the class. Students will research, document and present their findings to the class next week.
+- Will be moving onto more technical subject matter after this preliminary introduction to OSINT and basic online safety and ethics.
+- The following topics have been distributed between teams:
+  - Password Management Best Practices
+  - How To Detect A Phishing Attempt
+  - How To Keep Your Home Network Safe
+  - How To Protect Your Mobile Phone
+  - How To Stay Safe on Public Networks
+  - How To Secure Your Personal Computer
+  - Personal Cyber Security Best Practices
+  - What Are Some Common Types of Malware
+  - How To Keep Your Information/Data Safe Online (PII)
+  - How To Stay Anonymous Online
+
+
+[Instructor Pre-Agenda](https://gist.github.com/jaywon/66a678e1a692200fa5a42c95425ec319)
+
+### Resources
+[Official Air Force Online Safety Guide](https://volunteer.uscyberpatriot.org/Volunteer%20Documents/Unit%202%20-%20Introduction%20to%20Online%20Safety.pdf)
