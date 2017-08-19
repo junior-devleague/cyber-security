@@ -10,4 +10,3 @@ You're a cyber security expert that needs to explain how the internet works to a
   1. Explanation of the different network devices and the roles they play.
   2. Security best practices when setting up a new network
 
-### Due Date: 8/18/17
