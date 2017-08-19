@@ -12,4 +12,4 @@ Write a blog about a particular method of hacking that you have no knowledge of:
 
 - Your blog post should be at least a 3 min read.
 
-### Due Date: 8/25/17
+
