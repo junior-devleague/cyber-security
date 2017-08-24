@@ -98,6 +98,7 @@ Format of the class was as follows:
 Format of the class was as follows:
 - Continued covering networking and devices in depth.
 - Showed example of SQL Injection to follow along with databases.
+- Live demo of VPN and how they work.
 - Finished up networking and will be starting types of attacks next.
 
 
