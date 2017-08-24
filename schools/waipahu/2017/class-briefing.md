@@ -92,4 +92,23 @@ Format of the class was as follows:
 [OSI Model](https://support.microsoft.com/en-us/help/103884/the-osi-model-s-seven-layers-defined-and-functions-explained)
 
 
+# Class Recap - Week 3 - 8/23/2017 11:12am  - 12:38pm
+
+### Topics
+Format of the class was as follows:
+- Continued covering networking and devices in depth.
+- Showed example of SQL Injection to follow along with databases.
+- Finished up networking and will be starting types of attacks next.
+
+
+**Reminder: Quiz 8/25/17 over Networking & Personal Security Practices**
+- Any topics covered thus far are fair game for the quiz. Review recaps, notes, and resources for study material.
+
+### Resources
+
+[SQL Injection](https://www.acunetix.com/websitesecurity/sql-injection/)
+
+
+
+
 
