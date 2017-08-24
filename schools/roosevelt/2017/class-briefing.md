@@ -97,3 +97,30 @@ Today was the first day of instruction. Format of the class was as follows:
 ### Resources
 [Cyber Patriot Information](https://www.uscyberpatriot.org/competition/Competition-Overview/how-the-competition-works)
 [Official Air Force Online Safety Guide](https://volunteer.uscyberpatriot.org/Volunteer%20Documents/Unit%202%20-%20Introduction%20to%20Online%20Safety.pdf)
+
+# Class Recap - Week 2 - 8/22/2017 8AM - 9.25AM
+- Started the class picking up from where we left off the prior class in doing team research on assortment of assigned tasks in various areas of personal security best practices
+- Stated to the class the importance of teamwork and collaboration, as well as the necessity to be self directed learners when it comes to careers in information technology
+- Teams presented their research findings in the following areas:
+    - Password Management Best Practices
+    - How To Detect A Phishing Attempt
+    - How To Keep Your Home Network Safe
+    - How To Protect Your Mobile Phone
+    - How To Stay Safe on Public Networks
+    - How To Secure Your Personal Computer
+    - Personal Cyber Security Best Practices
+    - What Are Some Common Types of Malware
+    - How To Keep Your Information/Data Safe Online (PII)
+    - How To Stay Anonymous Online
+- Talked briefly about Machine Learning applied to parole systems and the decision making shortcomings of machines vs humans
+- Had a brief discussion on trajectory of the class
+
+[Instructor Pre-Agenda](https://gist.github.com/jaywon/8531fd9257f35d39831f173492c6cc9f)
+
+**Homework: Blog 2 has been assigned with a due date of 8/28/2017**
+
+### Homework
+[ELI95-Explain How the Internet Works to Your Grandparents](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-2-how-internet-works.md)
+
+### Resources
+(TBD - Will find various articles about the personal security best practices)
