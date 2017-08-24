@@ -1,11 +1,11 @@
 # Blog Assignment - Find Your Cyber Interest
 
 ### Mission<br>
-**You're mission, should you choose to accept:**
+**Your mission, should you choose to accept:**
 
-You're a news reporter tasked to create a new beat covering cybersecurity. The online media company you work for doesn't have manytechnically inclined people so they're looking to you to bring some new blood into the publication.
+You're a news reporter tasked to create a new beat covering cybersecurity. The online media company you work for doesn't have many technically inclined people so they're looking to you to bring some new blood into the publication.
 
-You're task is to begin to find your niche and determine where you're going to jump in first. It's such a broad landscape, where would you even begin?
+Your task is to begin to find your niche and determine where you're going to jump in first. It's such a broad landscape, where would you even begin?
 
 Your boss has asked for the following:
 
