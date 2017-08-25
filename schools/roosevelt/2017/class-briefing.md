@@ -124,3 +124,49 @@ Today was the first day of instruction. Format of the class was as follows:
 
 ### Resources
 (TBD - Will find various articles about the personal security best practices)
+
+# Class Recap - Week 2 - 8/24/2017 8AM - 9.25AM
+- Started class asking who went home and implemented any security practices from our last discussion
+- Had connectivity problems with guest access on school network and lack of permissions on lab computers
+- Ran an ad-hoc exercise about architecture of the internet rather than lecture about it
+- Split up the class where everyone was assigned a role of a device or intermediary in internet architecture as follows:
+    - Chloe: Router
+    - Gabby: Database
+    - Arianna: Server
+    - Kelli: Tablet(iPad)
+    - Angelina: DNS Server
+    - Shar: VPN
+    - Wen: Switch
+    - Eric: Application(Google Chrome)
+    - Antony: Arduino
+    - Kelly: Cell Phone(iOS)
+    - Megan: Web Server
+    - Aeryn: Private Network
+    - Ranier: Internet Explorer
+    - Robert: Router
+    - Sang: - Desktop PC(Windows 10)
+    - Henry: Great Wall of China(Firewall)
+    - Maya: Tor
+    - Anthony: DMZ
+    - Anthony: Wireshark
+    - Peter: Network Admin
+    - Trevor: High Profile Database
+    - Shaun: IDS(Intrusion Detection System)
+    - Henry: Gateway
+    - Sean: Bitcoin Wallet
+    - Tomoe: Black Hat Hacker
+    - Mr. Kam: Data
+- Last 10 minutes of class, students were to research a little more on what their role was as part of the assigned ELI95 assignment due next week.
+
+[Instructor Pre-Agenda](https://gist.github.com/jaywon/ef02b0a11f7b2958f486810c3b677042)
+
+**Homework: Blog 2 has been assigned with a due date of 8/28/2017**
+
+### Homework
+[ELI95-Explain How the Internet Works to Your Grandparents](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-2-how-internet-works.md)
+
+### Resources
+[How The Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc)
+[How Tor and HTTPS Work Together](https://www.eff.org/pages/tor-and-https)
+[How A Bitcoin Wallet Works](https://www.youtube.com/watch?v=AD-vWx3oA84)
+[How Does A DMZ Work](https://www.youtube.com/watch?v=SMSYBMr8MaY)
