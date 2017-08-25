@@ -21,6 +21,22 @@ Format of the class was as follows:
 [CyberPatriots](http://www.uscyberpatriot.org/)
 
 
+# Class Recap - Week 1 - 8/24/2017 1:45pm - 3:15pm
+
+### Topics
+
+Format of the class was as follows:
+- Initial setup of accounts for Slack, Medium, and Github. Went through how each work, features, submitting homework and more.
+- Collected contracts. Note: if don't have contract by Monday 8/28.
+- Will start with cyber ethics next class.
+
+**Homework:** None
+
+
+### Resources
+
+[Hacker News](https://thehackernews.com/)
+
 
 
 
