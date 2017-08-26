@@ -110,7 +110,7 @@ Format of the class was as follows:
 [SQL Injection](https://www.acunetix.com/websitesecurity/sql-injection/)
 
 
-# Class Recap - Week 3 - 8/25/2017 10:30am  - 11:45pm
+# Class Recap - Week 3 - 8/25/2017 10:30am  - 11:35pm
 
 ### Topics
 Format of the class was as follows:
