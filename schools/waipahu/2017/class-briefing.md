@@ -110,6 +110,22 @@ Format of the class was as follows:
 [SQL Injection](https://www.acunetix.com/websitesecurity/sql-injection/)
 
 
+# Class Recap - Week 3 - 8/25/2017 10:30am  - 11:45pm
+
+### Topics
+Format of the class was as follows:
+- Students took a network/Personal Security quiz.
+- Started talking about different hacking techniques. Did quick group exercise researching a specific attack they didn't know.
+
+
+**Reminder: Be ready to present your cyber attack findings Monday 8/28/17*
+
+
+### Resources
+
+[Social Engineering](https://digitalguardian.com/blog/social-engineering-attacks-common-techniques-how-prevent-attack)
+
+
 
 
 
