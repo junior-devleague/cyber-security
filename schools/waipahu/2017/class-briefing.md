@@ -126,6 +126,22 @@ Format of the class was as follows:
 [Social Engineering](https://digitalguardian.com/blog/social-engineering-attacks-common-techniques-how-prevent-attack)
 
 
+# Class Recap - Week 4 - 8/28/2017 9:40am  - 10:23am
+
+### Topics
+Format of the class was as follows:
+- Began class with presentations of students cyber attack findings.
+- Continued to finish cyber attacks and cyberwarfare.
+- Introduced Norse live cyber attack map.
+
+
+**Homework Reminder: Blog 2 is due 9/1/17**
+[Cyber Attacks](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod2-research-cyber-attack.md)
+
+### Resources
+
+[Norse](http://map.norsecorp.com/#/)
+
 
 
 
