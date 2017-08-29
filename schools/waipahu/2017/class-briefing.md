@@ -135,8 +135,9 @@ Format of the class was as follows:
 - Introduced Norse live cyber attack map.
 
 
-**Homework Reminder: Blog 2 is due 9/1/17**
-[Cyber Attacks](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod2-research-cyber-attack.md)
+**Homework Reminder: [Cyber Attacks](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod2-research-cyber-attack.md) due 9/1/17**
+- Submit the url to your blog post in Slack by end of school day Friday 8/18/17.
+- No late assignments accepted.
 
 ### Resources
 
