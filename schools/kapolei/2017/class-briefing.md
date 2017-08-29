@@ -58,7 +58,9 @@ Format of the class was as follows:
 ### Resources
 
 [Norse Live Cyber Attack Map](http://map.norsecorp.com/)
+
 [Nord VPN](https://nordvpn.com/)
+
 [Ethics](https://s3.amazonaws.com/cpvii/Training+materials/Unit+0+-+Cyber+Ethics+%28Presentation%29.pdf)
 
 
