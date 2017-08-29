@@ -38,5 +38,29 @@ Format of the class was as follows:
 [Hacker News](https://thehackernews.com/)
 
 
+# Class Recap - Week 2 - 8/28/2017 1:45pm - 3:15pm
+
+### Topics
+
+Format of the class was as follows:
+- Started class by re-confirming the appropriate use of slack channel.
+- Talked about lastest Hacking news and introduced Norse live cyber attack map
+- Introduction to cyber ethics and talked about different areas and ran through real scenarios for ethical evaluaiton.
+- Completed ethics.
+
+**Homework:** [Cyber Interest](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-0-research-cyber-general.md)
+
+**Due Date 9/1/17 by end of school day**
+- Submit url of completed blog via slack channel.
+- No late assignments will be accepted.
+
+
+### Resources
+
+[Norse Live Cyber Attack Map](http://map.norsecorp.com/)
+[Nord VPN](https://nordvpn.com/)
+[Ethics](https://s3.amazonaws.com/cpvii/Training+materials/Unit+0+-+Cyber+Ethics+%28Presentation%29.pdf)
+
+
 
 
