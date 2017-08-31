@@ -159,7 +159,7 @@ Format of the class was as follows:
 - No late assignments accepted.
 
 ### Resources 
-[Difference between hackers](https://www.wired.com/2016/04/hacker-lexicon-white-hat-gray-hat-black-hat-hackers/)
+[Black Hat, White Hat, Grey Hat?](https://www.wired.com/2016/04/hacker-lexicon-white-hat-gray-hat-black-hat-hackers/)
 
 
 
