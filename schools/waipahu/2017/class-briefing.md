@@ -158,6 +158,9 @@ Format of the class was as follows:
 - Submit the url to your blog post in Slack by end of school day Friday 9/1/17.
 - No late assignments accepted.
 
+### Resources 
+[Difference between hackers](https://www.wired.com/2016/04/hacker-lexicon-white-hat-gray-hat-black-hat-hackers/)
+
 
 
 
