@@ -23,6 +23,7 @@
   - Move each of the `*.txt` files you created earlier into the proper directory
   - Navigate into each new directory and add text to each file
   - Verify text was added by displaying or PRINTing the contents of that file
+  - Make 3 copies of each file
 
 1. List all of the running processes on your computer
   - Start other programs in Windows and see if you can identify them in the `TASKLIST`
