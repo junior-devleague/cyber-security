@@ -136,12 +136,29 @@ Format of the class was as follows:
 
 
 **Homework Reminder: [Cyber Attacks](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod2-research-cyber-attack.md) due 9/1/17**
-- Submit the url to your blog post in Slack by end of school day Friday 8/18/17.
+- Submit the url to your blog post in Slack by end of school day Friday 9/1/17.
 - No late assignments accepted.
 
 ### Resources
 
 [Norse](http://map.norsecorp.com/#/)
+
+
+# Class Recap - Week 4 - 8/30/2017 11:12am  - 12:38am
+
+### Topics
+Format of the class was as follows:
+- Began class with talking about latest cyber news of a large data dump.
+- Talked about different cyber careers and avenues for those interested in going into the field. Also certs like sec + and ceh for those that want to advance their knowledge.
+- Explained differences between white, grey, and black hat hackers.
+- Showed short video "state of surveillance" with edward snowden. Talked about key points of the video such as tech, monitoring, and prominence of government surveillance. 
+
+
+**Homework Reminder: [Cyber Attacks](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod2-research-cyber-attack.md) due 9/1/17**
+- Submit the url to your blog post in Slack by end of school day Friday 9/1/17.
+- No late assignments accepted.
+
+
 
 
 
