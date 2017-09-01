@@ -176,6 +176,7 @@ Format of the class was as follows:
 
 ### Resources 
 [Keybase Crypto](https://keybase.io/docs/crypto/overview)
+
 [Windows checksum](https://support.microsoft.com/en-us/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-u)
 
 
