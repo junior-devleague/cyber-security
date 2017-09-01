@@ -1,4 +1,4 @@
-# Class Recap - Week 1 - 8/21/2017 1:45pm - 3:15pm
+# Class Recap - Week 1 - 8/21/2017 1:45pm - 3:05pm
 
 ### Topics
 
@@ -21,7 +21,7 @@ Format of the class was as follows:
 [CyberPatriots](http://www.uscyberpatriot.org/)
 
 
-# Class Recap - Week 1 - 8/24/2017 1:45pm - 3:15pm
+# Class Recap - Week 1 - 8/24/2017 1:45pm - 3:05pm
 
 ### Topics
 
@@ -38,7 +38,7 @@ Format of the class was as follows:
 [Hacker News](https://thehackernews.com/)
 
 
-# Class Recap - Week 2 - 8/28/2017 1:45pm - 3:15pm
+# Class Recap - Week 2 - 8/28/2017 1:45pm - 3:05pm
 
 ### Topics
 
@@ -62,6 +62,32 @@ Format of the class was as follows:
 [Nord VPN](https://nordvpn.com/)
 
 [Ethics](https://s3.amazonaws.com/cpvii/Training+materials/Unit+0+-+Cyber+Ethics+%28Presentation%29.pdf)
+
+
+# Class Recap - Week 2 - 8/31/2017 1:45pm - 3:05pm
+
+### Topics
+
+Format of the class was as follows:
+- Started class by tallking about the recent massive data dump and consequences, potential threats, and watch to watch out for in your personal accounts/how to handle if occurs.
+- Mr. Slater showed a video on cyber patriots and described the outline of the competition and schedule.
+- Began talking about digital crime and consequences with topics covering cyber crimes, examples of cyber crimes, cyber bullying, careers and certifications, and ended with brief talk of wannacry virus.
+
+**Homework:** [Cyber Interest](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-0-research-cyber-general.md)
+
+**Due Date 9/1/17 by end of school day**
+- Submit url of completed blog via slack channel.
+- No late assignments will be accepted.
+
+
+### Resources
+
+[Cyber Patriot Training Materials](https://www.uscyberpatriot.org/competition/training-materials)
+
+[Sec + Certification Information](https://certification.comptia.org/certifications/security)
+- I have training material if interested, please ping me on slack and will be happy to share
+
+
 
 
 
