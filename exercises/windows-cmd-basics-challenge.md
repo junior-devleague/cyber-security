@@ -1,11 +1,4 @@
-# Beginner Windows Challenge
-
-1. Add a new user account
-    - What kind of Account Type should you use?
-
-1. Change the password of your existing user account
-    - What are the password guidelines you should use?
-    - Can you change the password of another user account?
+# Windows cmd.exe Basics Challenge
 
 1. Open cmd.exe and complete the following tasks in the terminal
     - Change the `TITLE` of your cmd.exe window to `wuuuuuutttt`
