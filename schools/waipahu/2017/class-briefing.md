@@ -162,6 +162,24 @@ Format of the class was as follows:
 [Black Hat, White Hat, Grey Hat?](https://www.wired.com/2016/04/hacker-lexicon-white-hat-gray-hat-black-hat-hackers/)
 
 
+# Class Recap - Week 4 - 9/1/2017 11:00am  - 12:25am
+
+### Topics
+Format of the class was as follows:
+- Began class with talking about hashing and checksums. what they are, why use them, and implemented live solution/example.
+- Introduced Keybase and installed on local machines. Went through setup process and showed how to use gui and cli to send encrypted data.
+
+
+**Homework Reminder: [Cyber Attacks](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod2-research-cyber-attack.md) due 9/1/17**
+- Submit the url to your blog post in Slack by end of school day Friday 9/1/17.
+- No late assignments accepted.
+
+### Resources 
+[Keybase Crypto](https://keybase.io/docs/crypto/overview)
+
+[Windows checksum](https://support.microsoft.com/en-us/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-u)
+
+
 
 
 
