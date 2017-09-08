@@ -88,7 +88,20 @@ Format of the class was as follows:
 - I have training material if interested, please ping me on slack and will be happy to share
 
 
+# Class Recap - Week 3 - 9/7/2017 1:45pm - 3:05pm
+
+### Topics
+
+Format of the class was as follows:
+- Started class by talking about the recent hack of Equifax and the severity of the breach.
+- Began personal security module and starting to build your own personal security layer.
+- Showed Tor Browsers, what it is, how it works, and why it is used. Showed live demo re-enforcing how it works under the hood.
+- Started talking about anonymous search engines, how they work, why to use them, and live demo.
+- Ended class with explaining how you can combine these different tools to create your own security layer.
 
 
+### Resources
 
+[DuckDuckGo](https://duckduckgo.com/)
 
+[How Tor Browser Works](https://www.tomsguide.com/us/what-is-tor-faq,news-17754.html)
