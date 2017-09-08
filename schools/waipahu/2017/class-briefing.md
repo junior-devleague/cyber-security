@@ -179,6 +179,20 @@ Format of the class was as follows:
 
 [Windows checksum](https://support.microsoft.com/en-us/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-u)
 
+# Class Recap - Week 5 - 9/8/2017 11:00am  - 12:20am
+
+### Topics
+Format of the class was as follows:
+- Began class by talking about recent hacking of Equifax and the severity of the breach and what to be on the watch for.
+- Introduced virtual machines, what they are, how used, live demo of virtual operating system.
+- Went into system architecture of using virtual operating systems, vulnerabilities, and network configuration.
+- Introduced SSH and live demo ssh from windows laptop to macbook computer.
+
+### Resources 
+[What is Virtualiztion](https://www.vmware.com/solutions/virtualization.html)
+
+[SSH](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
+
 
 
 
