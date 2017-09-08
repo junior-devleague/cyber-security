@@ -97,6 +97,7 @@ Format of the class was as follows:
 - Began personal security module and starting to build your own personal security layer.
 - Showed Tor Browsers, what it is, how it works, and why it is used. Showed live demo re-enforcing how it works under the hood.
 - Started talking about anonymous search engines, how they work, why to use them, and live demo.
+- Introduced Https Everywhere and how/why its a great tools to use.
 - Ended class with explaining how you can combine these different tools to create your own security layer.
 
 
