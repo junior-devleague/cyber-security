@@ -194,7 +194,27 @@ Format of the class was as follows:
 [SSH](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
 
 
+# Class Recap - Week 6 - 9/11/2017 8:52am  - 9:35am
 
+### Topics
+Format of the class was as follows:
+- Began class talking about new information about Equifax hack and the overall ethics of the company.
+- Started talking about file systems and going the GUI.
+- Ended class by talking about cyber patriot practice rounds and what we will be doing during this time frame.
 
+### Homework
+[What is a firewall](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-4-what-is-a-firewall.md)
+
+**Due Date:** 9/15/2017
+- Submit the url to your blog post in Slack by end of school day Friday 9/15/17.
+- No late assignments accepted.
+
+### Resources
+
+[Windows](https://www.uscyberpatriot.org/competition/training-materials/windows)
+
+[Linux](https://www.uscyberpatriot.org/competition/training-materials/linux)
+
+[Cyber Patriot Schedule](https://www.uscyberpatriot.org/competition/competition-timeline)
 
 
