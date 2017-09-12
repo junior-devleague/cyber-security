@@ -106,3 +106,25 @@ Format of the class was as follows:
 [DuckDuckGo](https://duckduckgo.com/)
 
 [How Tor Browser Works](https://www.tomsguide.com/us/what-is-tor-faq,news-17754.html)
+
+
+# Class Recap - Week 4 - 9/11/2017 1:45pm - 3:05pm
+
+### Topics
+
+Format of the class was as follows:
+- Started class by talking about cyber patriot practice rounds and format of training during the time frame. Date to note 9/23/17 6am will be sneak preview using new software. Please try to be there.
+- Talked about the new info that came out about Equifax hack and how it relates back to ethics.
+- Used rest of class talking about checksums and hashing algorithms with live-demo of MD5 and SHA1.
+
+**Homework:** [How the Internet Works](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-2-how-internet-works.md)
+
+**Due Date 9/15/17 by end of school day**
+- Submit url of completed blog via slack channel.
+- No late assignments will be accepted.
+
+### Resources
+
+[MD5](https://en.wikipedia.org/wiki/MD5)
+
+[SHA1](https://en.wikipedia.org/wiki/Sha1sum)
