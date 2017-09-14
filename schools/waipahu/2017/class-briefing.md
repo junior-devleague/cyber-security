@@ -194,7 +194,7 @@ Format of the class was as follows:
 [SSH](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
 
 
-# Class Recap - Week 6 - 9/13/2017 9:30am  - 11:00am
+# Class Recap - Week 6 - 9/13/2017 11:00am  - 12:38pm
 
 ### Topics
 Format of the class was as follows:
