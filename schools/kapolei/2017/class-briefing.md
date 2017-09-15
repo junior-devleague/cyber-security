@@ -128,3 +128,23 @@ Format of the class was as follows:
 [MD5](https://en.wikipedia.org/wiki/MD5)
 
 [SHA1](https://en.wikipedia.org/wiki/Sha1sum)
+
+
+# Class Recap - Week 4 - 9/14/2017 1:45pm - 3:05pm
+
+### Topics
+
+Format of the class was as follows:
+- Started class by introducing Virtual Box & VMWare, what they are, and why we use. 
+- Showed live example of how to create a virtual image of Ubuntu using both Virtual Box & VMware.
+
+**Homework Reminder:** [How the Internet Works](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-2-how-internet-works.md)
+
+**Due Date 9/15/17 by end of school day**
+- Submit url of completed blog via slack channel.
+- No late assignments will be accepted.
+
+### Resources
+
+[Virtual Box](https://www.virtualbox.org/wiki/Downloads)
+
