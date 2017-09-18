@@ -215,5 +215,22 @@ Format of the class was as follows:
 [Windows Registry](https://www.lifewire.com/windows-registry-2625992)
 
 
+# Class Recap - Week 7 - 9/18/2017 9:40am  - 10:23pm
+
+### Topics
+Format of the class was as follows:
+- Began class talking about training images and how to set them up.
+- Talked about scoring and different ways to earn points during competition.
+- Began walking through answer sheet to test scoring engine.
+- Researched commands to change other permissions  via command prompt.
+
+### Homework:
+  No blog this week.
+
+
+### Resources
+[Disable accounts via command prompt](https://www.windows-commandline.com/enable-disable-user-account-command/)
+[Search for Files via command prompt](https://www.howtogeek.com/206097/how-to-use-find-from-the-windows-command-prompt/)
+
 
 
