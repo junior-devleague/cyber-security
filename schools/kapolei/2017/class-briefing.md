@@ -148,3 +148,21 @@ Format of the class was as follows:
 
 [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 
+
+# Class Recap - Week 5 - 9/18/2017 1:45pm - 3:05pm
+
+### Topics
+
+Format of the class was as follows:
+- Started class by talking about turning in blogs and how they are important.
+- Talked about the training images and what we will be doing for the week.
+- Walked through set up of training images and training instructions.
+- Made teams and worked through windows 7 training module.
+
+**Homework:** 
+Read instructions for training images. Download all images and software per instructions on your home computer if applicable and run through each training image to get familiar with the software and different os.
+
+### Resources
+
+[Basic Windows Command Prompt](https://www.computerhope.com/overview.htm)
+
