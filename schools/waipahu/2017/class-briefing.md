@@ -234,3 +234,20 @@ Format of the class was as follows:
 
 
 
+# Class Recap - Week 7 - 9/20/2017 9:31am  - 10:57pm
+
+### Topics
+Format of the class was as follows:
+- Began class talking cyber news.
+- Basic windows commands review.
+- Install fest of VMware, WinMD5 and training images.
+- Tested training image on computers.
+- Began to walk through Ubuntu image towards end of class.
+
+### Homework:
+  No blog this week.
+
+
+### Resources
+[Keybase](https://keybase.io/)
+
