@@ -166,3 +166,18 @@ Read instructions for training images. Download all images and software per inst
 
 [Basic Windows Command Prompt](https://www.computerhope.com/overview.htm)
 
+
+# Class Recap - Week 5 - 9/21/2017 1:45pm - 3:05pm
+
+### Topics
+
+Format of the class was as follows:
+- Started class by talking about how the video conference call is going to work this saturday.
+- Started windows command prompt basics.
+
+**Video Conference Call:** 
+[link to conference call](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2w4YWlrNmEwN2xsczB1c3FmcWxxcXFodmogbmF0YWxpZUBkZXZsZWFndWUuY29t&tmsrc=natalie%40devleague.com)
+
+### Resources
+
+[What is a shell and kernal](http://ecomputernotes.com/fundamental/disk-operating-system/what-is-shell-and-kernel)
