@@ -110,7 +110,7 @@ Format of the class was as follows:
 [SQL Injection](https://www.acunetix.com/websitesecurity/sql-injection/)
 
 
-# Class Recap - Week 3 - 8/25/2017 10:30am  - 11:35pm
+# Class Recap - Week 3 - 8/25/2017 10:30am  - 11:35am
 
 ### Topics
 Format of the class was as follows:
@@ -126,7 +126,7 @@ Format of the class was as follows:
 [Social Engineering](https://digitalguardian.com/blog/social-engineering-attacks-common-techniques-how-prevent-attack)
 
 
-# Class Recap - Week 4 - 8/28/2017 9:40am  - 10:23am
+# Class Recap - Week 4 - 8/28/2017 9:40am  - 10:23pm
 
 ### Topics
 Format of the class was as follows:
@@ -144,7 +144,7 @@ Format of the class was as follows:
 [Norse](http://map.norsecorp.com/#/)
 
 
-# Class Recap - Week 4 - 8/30/2017 11:12am  - 12:38am
+# Class Recap - Week 4 - 8/30/2017 11:12am  - 12:38pm
 
 ### Topics
 Format of the class was as follows:
@@ -162,7 +162,7 @@ Format of the class was as follows:
 [Black Hat, White Hat, Grey Hat?](https://www.wired.com/2016/04/hacker-lexicon-white-hat-gray-hat-black-hat-hackers/)
 
 
-# Class Recap - Week 4 - 9/1/2017 11:00am  - 12:25am
+# Class Recap - Week 4 - 9/1/2017 11:00am  - 12:25pm
 
 ### Topics
 Format of the class was as follows:
@@ -179,7 +179,7 @@ Format of the class was as follows:
 
 [Windows checksum](https://support.microsoft.com/en-us/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-u)
 
-# Class Recap - Week 5 - 9/8/2017 11:00am  - 12:20am
+# Class Recap - Week 5 - 9/8/2017 11:00am  - 12:20pm
 
 ### Topics
 Format of the class was as follows:
@@ -194,7 +194,7 @@ Format of the class was as follows:
 [SSH](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
 
 
-# Class Recap - Week 6 - 9/13/2017 11:00am  - 12:38pm
+# Class Recap - Week 6 - 9/13/2017 11:00am  - 12:38am
 
 ### Topics
 Format of the class was as follows:
@@ -215,7 +215,7 @@ Format of the class was as follows:
 [Windows Registry](https://www.lifewire.com/windows-registry-2625992)
 
 
-# Class Recap - Week 7 - 9/18/2017 9:40am  - 10:23pm
+# Class Recap - Week 7 - 9/18/2017 9:40am  - 10:23am
 
 ### Topics
 Format of the class was as follows:
@@ -234,7 +234,7 @@ Format of the class was as follows:
 
 
 
-# Class Recap - Week 7 - 9/20/2017 9:31am  - 10:57pm
+# Class Recap - Week 7 - 9/20/2017 9:31am  - 10:57am
 
 ### Topics
 Format of the class was as follows:
@@ -251,3 +251,18 @@ Format of the class was as follows:
 ### Resources
 [Keybase](https://keybase.io/)
 
+
+# Class Recap - Week 7 - 9/22/2017 10:30am  - 11:35am
+
+### Topics
+Format of the class was as follows:
+- Began class talking cyber news.
+- Talked about format of video conference call.
+- Continued to walk through Ubuntu training image.
+
+### Homework:
+ Enjoy Homecoming
+
+
+### Resources
+[Flavors of Linux Compared](https://www.howtogeek.com/191207/10-of-the-most-popular-linux-distributions-compared/)
