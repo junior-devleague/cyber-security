@@ -181,3 +181,20 @@ Format of the class was as follows:
 ### Resources
 
 [What is a shell and kernal](http://ecomputernotes.com/fundamental/disk-operating-system/what-is-shell-and-kernel)
+
+
+# Class Recap - Week 6 - 9/25/2017 1:45pm - 3:05pm
+
+### Topics
+
+Format of the class was as follows:
+- Started class by introducing Alyssa.
+- Summary of conference call regarding new cyber patriot software and took questions.
+- Continued with basic windows command prompt.
+- Assigned windows command prompt challenge.
+
+**Homework:** [What is a firewall](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-4-what-is-a-firewall.md)
+
+**Due Date 9/29/17 by 4pm**
+- Submit url of completed blog via slack channel.
+- No late assignments will be accepted.
