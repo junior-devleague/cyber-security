@@ -205,7 +205,7 @@ Format of the class was as follows:
 - Ended class talking about training images being released 9/15/17.
 
 ### Homework Reminder:
-[What is a firewall](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-4-what-is-a-firewall.md)
+[How to configure windows firewall](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-4-how-to-configure-windows-firewall.md)
 
 **Due Date:** 9/15/2017
 - Submit the url to your blog post in Slack by end of school day Friday 9/15/17.
@@ -266,3 +266,20 @@ Format of the class was as follows:
 
 ### Resources
 [Flavors of Linux Compared](https://www.howtogeek.com/191207/10-of-the-most-popular-linux-distributions-compared/)
+
+
+# Class Recap - Week 8 - 9/25/2017 9:40am  - 10:23am
+
+### Topics
+Format of the class was as follows:
+- Began class talking cyber news.
+- Gave recap of conference call regarding the new training software for cyber patriot.
+- Continued to walk through Ubuntu training image.
+
+### Homework:
+[How to configure windows firewall](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-4-how-to-configure-windows-firewall.md)
+
+**Due Date:** 9/29/2017
+- Submit the url to your blog post in Slack by 4pm Friday 9/29/17.
+- No late assignments accepted.
+
