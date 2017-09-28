@@ -283,3 +283,22 @@ Format of the class was as follows:
 - Submit the url to your blog post in Slack by 4pm Friday 9/29/17.
 - No late assignments accepted.
 
+
+# Class Recap - Week 8 - 9/27/2017 11:12am  - 12:38pm
+
+### Topics
+Format of the class was as follows:
+- Began class talking cyber news about latest wifi vulnerability with iphone running versions lower than ios10.
+- Gave permissions exercise using icacls
+- Jam time rest of class on exercise
+
+### Homework Reminder:
+[How to configure windows firewall](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-4-how-to-configure-windows-firewall.md)
+
+**Due Date:** 9/29/2017
+- Submit the url to your blog post in Slack by 4pm Friday 9/29/17.
+- No late assignments accepted.
+
+
+### Resources
+[icacls](https://technet.microsoft.com/en-us/library/cc753525(v=ws.11).aspx#BKMK_examples)
