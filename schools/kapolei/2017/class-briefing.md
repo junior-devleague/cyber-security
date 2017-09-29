@@ -198,3 +198,19 @@ Format of the class was as follows:
 **Due Date 9/29/17 by 4pm**
 - Submit url of completed blog via slack channel.
 - No late assignments will be accepted.
+
+# Class Recap - Week 6 - 9/28/2017 1:45pm - 3:05pm
+
+### Topics
+
+Format of the class was as follows:
+- Started class spending 20 mintues to finish up command prompt exercise.
+- Started talking about icacls and quick live code.
+- Rest of class spent working on [permission managment](https://github.com/junior-devleague/cyber-security/blob/master/exercises/windows-cmd-permissions-management.md
+)
+
+**Homework Reminder:** [What is a firewall](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-4-what-is-a-firewall.md)
+
+**Due Date 9/29/17 by 4pm**
+- Submit url of completed blog via slack channel.
+- No late assignments will be accepted.
