@@ -302,3 +302,17 @@ Format of the class was as follows:
 
 ### Resources
 [icacls](https://technet.microsoft.com/en-us/library/cc753525(v=ws.11).aspx#BKMK_examples)
+
+# Class Recap - Week 8 - 9/29/2017 11:12am  - 12:20pm
+
+### Topics
+Format of the class was as follows:
+- Began class talking cyber news about EFI hack with macs
+- Rest of class was spent finishing up icacls exercise
+
+### Homework Reminder:
+[How to configure windows firewall](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-4-how-to-configure-windows-firewall.md)
+
+**Due Date:** 9/29/2017
+- Submit the url to your blog post in Slack by 4pm Friday 9/29/17.
+- No late assignments accepted.
