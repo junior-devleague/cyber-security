@@ -316,3 +316,17 @@ Format of the class was as follows:
 **Due Date:** 9/29/2017
 - Submit the url to your blog post in Slack by 4pm Friday 9/29/17.
 - No late assignments accepted.
+
+
+# Class Recap - Week 9 - 10/2/2017 9:40am  - 10:23am
+
+### Topics
+Format of the class was as follows:
+- Introduced Alyssa.
+- Talked cyber news about Apple not helping hack iphone for FBI.
+- Explained direction for the week working on training images.
+- Alyssa live-code using net user command and different options.
+
+### Resources
+[net user](https://technet.microsoft.com/en-us/library/cc771865(v=ws.11).aspx)
+
