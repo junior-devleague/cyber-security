@@ -214,3 +214,14 @@ Format of the class was as follows:
 **Due Date 9/29/17 by 4pm**
 - Submit url of completed blog via slack channel.
 - No late assignments will be accepted.
+# Class Recap - Week 7 - 10/2/17 1:45 pm - 3:05
+
+### Topics
+
+Format of the class was as follows:
+- Started class talking a little bit about what to expect with Cyber Patriot
+- Everyone moved to computers and worked on booting up Vmware with windows image- Make sure to use the same computer next class
+- Goal of class was to complete Windows image only using Command Prompt
+- Live coded a few example commands like net user, net localgroup, net accounts, and how to send output of command to a text file
+ 
+**Homework:** No homework due but practice using the command line for everything! The more you can use the commands the more comfortable and quick you will be during the competition.
