@@ -214,7 +214,9 @@ Format of the class was as follows:
 **Due Date 9/29/17 by 4pm**
 - Submit url of completed blog via slack channel.
 - No late assignments will be accepted.
-# Class Recap - Week 7 - 10/2/17 1:45 pm - 3:05
+
+
+# Class Recap - Week 7 - 10/2/17 1:45 pm - 3:05PM
 
 ### Topics
 
@@ -225,3 +227,5 @@ Format of the class was as follows:
 - Live coded a few example commands like net user, net localgroup, net accounts, and how to send output of command to a text file
  
 **Homework:** No homework due but practice using the command line for everything! The more you can use the commands the more comfortable and quick you will be during the competition.
+
+
