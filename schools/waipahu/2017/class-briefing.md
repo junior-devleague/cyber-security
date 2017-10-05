@@ -330,3 +330,11 @@ Format of the class was as follows:
 ### Resources
 [net user](https://technet.microsoft.com/en-us/library/cc771865(v=ws.11).aspx)
 
+# Class Recap - Week 9 - 10/4/2017 11:12am  - 12:38pm
+
+### Topics
+Format of the class was as follows:
+- Started class with cyber news of Yahoo hack discovering more affected users.
+- Started brand new windows training image and worked on fixing using CLI only.
+
+
