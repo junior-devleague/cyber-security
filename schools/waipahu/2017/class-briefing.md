@@ -337,4 +337,5 @@ Format of the class was as follows:
 - Started class with cyber news of Yahoo hack discovering more affected users.
 - Started brand new windows training image and worked on fixing using CLI only.
 
-
+### Resources
+[Enable / Disable Windows update CLI](https://www.windows-commandline.com/disable-automatic-updates-command-line/)
