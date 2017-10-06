@@ -216,7 +216,7 @@ Format of the class was as follows:
 - No late assignments will be accepted.
 
 
-# Class Recap - Week 7 - 10/2/17 1:45 pm - 3:05PM
+# Class Recap - Week 7 - 10/2/17 1:45 pm - 3:05pm
 
 ### Topics
 
@@ -227,5 +227,22 @@ Format of the class was as follows:
 - Live coded a few example commands like net user, net localgroup, net accounts, and how to send output of command to a text file
  
 **Homework:** No homework due but practice using the command line for everything! The more you can use the commands the more comfortable and quick you will be during the competition.
+
+
+
+# Class recap - Week 7 10/5/17 1:45pm - 3:05pm
+
+### Topics
+
+Format of the class was as follows:
+- Began class with short discussion on what to expect in the coming weeks/months
+- Then moved on to contine working on Windows 7 image and Windows Server 2008 using only the CLI
+
+**Discussed 3 major things to remember:**
+1. Every student needs to register for Netacad and Cyber Patriot both of which can be found in your email.
+2. Weekly blog assignments will now be 1-2 networking modules on Netacad which will be still be assigned on Mondays and Due on Fridays. This is mandatory and will be strictly graded as not completing assignments will not only hurt you but also your team. 
+3. During the break we will have a mock Cyber Patriot competition on Tuesday 10/10/17 starting at **7:30 am** till whenever we finish and Thursday 10/12/17 at **10:00am** that every student is expected to attend.  
+
+**Homework:** In Netacad complete the Introduction to Networks and Pretest Exam as well as everything in Chapter 1. 
 
 
