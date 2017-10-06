@@ -339,3 +339,14 @@ Format of the class was as follows:
 
 ### Resources
 [Enable / Disable Windows update CLI](https://www.windows-commandline.com/disable-automatic-updates-command-line/)
+
+# Class Recap - Week 9 - 10/6/2017 11:00am  - 12:20pm
+
+### Topics
+Format of the class was as follows:
+- Started class with cyber news of NSA tools stolen from contractor.
+- Finished up windows 7 cli fixes and moved onto windows server 2008 cli fixes
+- Will continue with new training images after the break.
+
+### Resources
+Enjoy your break and learn something new :)
