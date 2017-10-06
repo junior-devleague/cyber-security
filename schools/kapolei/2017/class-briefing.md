@@ -243,6 +243,6 @@ Format of the class was as follows:
 2. Weekly blog assignments will now be 1-2 networking modules on Netacad which will be still be assigned on Mondays and Due on Fridays. This is mandatory and will be strictly graded as not completing assignments will not only hurt you but also your team. 
 3. During the break we will have a mock Cyber Patriot competition on Tuesday 10/10/17 starting at **7:30 am** till whenever we finish and Thursday 10/12/17 at **10:00am** that every student is expected to attend.  
 
-**Homework:** In Netacad complete the Introduction to Networks and Pretest Exam as well as everything in Chapter 1. 
+**Homework:** In Netacad complete the Introduction to Networks and Pretest Exam as well as everything in Chapter 1 **Due By Next Friday the 10/13/17 at 4pm!**
 
 
