@@ -246,3 +246,36 @@ Format of the class was as follows:
 **Homework:** In Netacad complete the Introduction to Networks and Pretest Exam as well as everything in Chapter 1 **Due By Next Friday the 10/13/17 at 4pm!**
 
 
+
+# Class Recap- FALL BREAK! Week 8 
+
+
+### Tuesday 10/10/17 7:30am-12pm
+
+Cyber Patriot Practice Competition
+ Win  |  Serv  | Ubuntu   |  Total 
+ --- | --- | --- | --- | --- 
+ Team 1     |    73      |       66        |       38      |        177    
+ Team 2   |   63      |       88        |       56       |         187    
+ Team 3    |   100      |      87        |      07       |        194    
+ Team 4   |    88      |     75        |     31         |       194     
+  
+  
+We had a mock Cyber Patriot competition with all 3 images (Windows 10, Server 2016, and Ubuntu 16. So we can see how much we improve as we go and how well we have done so far the team scores from our practice round are listed above. AFter we were done, we went around the room and compared which vulnerabilities each group found and they explained how they solved it. 
+For anyone that did not make it to class, please practice on your own time completeing the images!
+
+
+### Thursday 10/12/17 10:00am-1:00pm
+
+Class began by having everyone download the Ubuntu 16 image to work on.
+Then we live coded linux command: Cd, Ls, Mkdir, Touch, Find -name “*.extension”, Sudo su and sudo, Adduser useradd, Userdel, Passwd, Chage -l, Nano and vim, Apt-get update/install, Rm -r /home/username, Getent group, /etc/passwd, Cat, and Grep.
+
+
+**Homework**: 
+For your homework do the Introduction to Networks and PRETEST EXAM. Do not worry about getting a high score just answer what you know so we know how much networking to cover. 
+
+Then create a folder in google drive title **Networking**. Inside that folder create a doc titled **Chapter 1**. In that google doc complete Chapter 1 lab 1.1.1.8 Just answer the questions, 1.2.4.5 answer questions and submit the packet tracer file, 1.3.1.3 DO NOT DO, and 1.4.4.3 Do entire lab.  Share your entire Networking Folder with alyssabk@hawaii.edu, tyler@devleague.com, and ssalter@hurricanes.k12.hi.us
+
+**THIS IS ALL DUE BY FRIDAY 10/13/17 at 4pm**
+
+
