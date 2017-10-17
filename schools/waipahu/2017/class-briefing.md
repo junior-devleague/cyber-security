@@ -350,3 +350,20 @@ Format of the class was as follows:
 
 ### Resources
 Enjoy your break and learn something new :)
+
+
+# Class Recap - Week 10 - 10/16/17 9:40am - 10:23am
+
+## Topics
+Format of the class was as follows:
+- Briefly talked about cyber news and anything fun we did over the break
+- Played a short Jimmy Kimmel video about passwords https://www.youtube.com/watch?v=opRMrEfAIiI
+- Worked on downloading new images and got at least Windows 10 and most got Ubuntu downloaded
+- Talked about netacad and got everyone registered and opened up packet tracer
+
+### Homework:
+
+Look at netacad and see what you maybe dont know and bring your questions to next class for Tyler!
+
+
+
