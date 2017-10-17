@@ -279,3 +279,22 @@ Then create a folder in google drive title **Networking**. Inside that folder cr
 **THIS IS ALL DUE BY FRIDAY 10/13/17 at 4pm**
 
 
+# Class Recap- Week 9 10/16/17 1:45pm - 3:05pm
+
+### Topics
+- We began class by going over last weeks homework which only 4 of you turned in on time!
+- Discussed a better way to get homework done so we are going to go back to blogs
+- Moved over to computers and walked through navigating the netacad site
+- Had everyone complete the 2 pretest exams 
+- Then we talked briefly about the network structure
+- Lastly we moved into Cisco Packet Tracer where we did a live demonstration of setting up and configuring a basic network
+
+**Homework:**
+Read Chapter 2 and Chapter 3 and do the below corresponding blog post for each chapter by 4pm on Friday!
+
+
+[Chapter 2 Blog](https://github.com/junior-devleague/cyber-security/blob/master/homework/Netacad-Chapter-2-How-to-configure-Network-Devices.md/)
+
+[Chapter 3 Blog](https://github.com/junior-devleague/cyber-security/blob/master/homework/Netacad-Chapter-3-The%20OSI%20and%20TCP%20Model-Messages-and%20Protocols.md/)
+
+Please turn in your homework everyone!
