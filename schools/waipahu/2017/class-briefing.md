@@ -365,5 +365,18 @@ Format of the class was as follows:
 
 Look at netacad and see what you maybe dont know and bring your questions to next class for Tyler!
 
+# Class Recap - Week 10 - 10/18/17 11:12am - 12:38pm
+
+## Topics
+Format of the class was as follows:
+- Started class with quick cyber news.
+- Tried working on linux images but having issues.
+- Signed up students for netcad modules.
+- Worked through netcad modules.
+
+### Homework:
+
+Start working on netcad modules.
+
 
 
