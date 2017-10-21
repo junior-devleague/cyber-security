@@ -379,4 +379,17 @@ Format of the class was as follows:
 Start working on netcad modules.
 
 
+# Class Recap - Week 10 - 10/20/17 11:12am - 12:20pm
+
+## Topics
+Format of the class was as follows:
+- Started class with quick cyber news.
+- Downloaded Ubuntu 17 image.
+- Worked on netcad modules.
+
+### Homework:
+
+Continue working on netcad modules.
+
+
 
