@@ -391,5 +391,21 @@ Format of the class was as follows:
 
 Continue working on netcad modules.
 
+# Class Recap - Week 11 - 10/23/17 9:40am - 10:23am
+
+## Topics
+Format of the class was as follows:
+- Started class with quick cyber news.
+- Talked about outlook for next two weeks and start of first cyber patriot qualification round.
+- Nov. 3rd 2:30pm is when will be doing cyber patriot round.
+- Rest of class spent on netcad modules
+
+### Reminder
+November 3rd 2:30pm is when we will be doing cyber patriot qualification round.
+
+### Homework:
+
+Continue working on netcad modules.
+
 
 
