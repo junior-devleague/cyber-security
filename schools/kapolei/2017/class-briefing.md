@@ -298,3 +298,15 @@ Read Chapter 2 and Chapter 3 and do the below corresponding blog post for each c
 [Chapter 3 Blog](https://github.com/junior-devleague/cyber-security/blob/master/homework/Netacad-Chapter-3-The%20OSI%20and%20TCP%20Model-Messages-and%20Protocols.md/)
 
 Please turn in your homework everyone!
+
+# Class Recap- Week 10 10/23/17 1:45pm- 3:15pm
+
+### Topics
+- We started by reviewing last weeks networking homework 
+- Talked a little bit about the android apps having bugs in them
+- Proposed an incentive to get more people turning in their homework (If you turn in your homework before class on Thursday, I will either give you extra credit or a free pass on an upcoming homework assignment) 
+- Then we moved on to computer and live coded some basic linux commands on http://www.webminal.org/ and completed through about lesson 4
+
+**Homework:**
+Create a google doc in your networking folder titled **Module 3 and 4**. Copy the questions from the below assignment and answer all the questions. In the same google doc follow the instructions for Chapter 8. Turn in by Thursday for extra credit or the regular due date of Friday at 4pm. 
+https://github.com/junior-devleague/cyber-security/blob/master/homework/Netacad-chapter-7-and-8.md
