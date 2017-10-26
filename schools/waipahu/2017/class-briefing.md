@@ -408,4 +408,20 @@ November 3rd 2:30pm is when we will be doing cyber patriot qualification round.
 Continue working on netcad modules.
 
 
+# Class Recap - Week 11 - 10/25/17 11:12am - 12:30pm
+
+## Topics
+Format of the class was as follows:
+- Started class with cyber news of Bad Rabbit spread.
+- Signed students up for webminal.
+- Rest of class working on jamming on linux tutorials
+
+### Reminder
+November 3rd 2:30pm is when we will be doing cyber patriot qualification round.
+
+### Homework:
+
+Continue to work on netcad modules at home.
+
+
 
