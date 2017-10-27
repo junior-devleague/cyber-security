@@ -408,7 +408,7 @@ November 3rd 2:30pm is when we will be doing cyber patriot qualification round.
 Continue working on netcad modules.
 
 
-# Class Recap - Week 11 - 10/25/17 11:12am - 12:30pm
+# Class Recap - Week 11 - 10/25/17 11:12am - 12:38pm
 
 ## Topics
 Format of the class was as follows:
@@ -422,6 +422,23 @@ November 3rd 2:30pm is when we will be doing cyber patriot qualification round.
 ### Homework:
 
 Continue to work on netcad modules at home.
+
+
+# Class Recap - Week 11 - 10/27/17 11:00am - 12:20pm
+
+## Topics
+Format of the class was as follows:
+- Started class with talking about timeframe for next friday's qualification round for cyber patriot
+- Went over official rules for round 1.
+- Downloaded round 1 images. Windows 7 and Ubuntu 14.
+- Rest of class working on jamming on linux modules or terminus.
+
+### Reminder
+November 3rd 2:30pm is when we will be doing cyber patriot qualification round.
+
+### Homework:
+
+Continue to work on netcad modules & packet tracer at home.
 
 
 
