@@ -441,4 +441,19 @@ November 3rd 2:30pm is when we will be doing cyber patriot qualification round.
 Continue to work on netcad modules & packet tracer at home.
 
 
+# Class Recap - Week 12 - 10/30/17 9:40am - 10:23am
+
+## Topics
+Format of the class was as follows:
+- Started class with talking cyber news on iphone app camera permissions.
+- Rest class spent on linux modules
+
+### Reminder
+November 3rd 2:30pm is when we will be doing cyber patriot qualification round.
+
+### Homework:
+
+Continue to work on netcad modules & packet tracer at home.
+
+
 
