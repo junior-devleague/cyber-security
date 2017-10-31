@@ -1,3 +1,15 @@
+# Class Recap- Week 11 10/30/17 1:45pm-3:05pm
+
+### Topics
+- Today we started class by going over the Cyer Patriot rules and whats new this year in the competition.
+- We then moved to computers and downlaod the images for the competition along with vmware 12.5.7 and packet tracer 7.1.
+- We also copied an Ubuntu 14 image from thumb drives to be used for exta practice.
+- Everyone then had the option to work on whatever they felt they needed more practice (Packet Tracer, Linux, or Windows)
+- See previous slack links for practice labs!
+
+**Homework:** <br>
+No homework except to practice for the competition and bring the notes you have been taking to class for our review session.
+
 
 # Class Recap- Week 10 10/26/17 1:45pm- 3:05pm
 
