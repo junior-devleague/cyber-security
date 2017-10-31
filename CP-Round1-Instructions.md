@@ -9,14 +9,14 @@ Honolulu, HI 96826 <br>
 
 ### When: <br>
 - 11am-4pm 
-- Please get there before 11am as the competition will start promptlyat 11.
+- Please get there before around 10:30am as the competition will start promptly at 11.
 - We may end early as well so make sure to tell your ride!
 
 ### What To bring: <br> 
 - Yourself! And Your Teammates!
 - Water/beverages to drink and snacks if you feel you need it. Lunch will be provided!
 - Any notes that you have taken, resources, etc.
-- Your own device(s) if you want too, we will have computers with everything ready at the academy
+- Your own device(s) if you want too, we will have computers with everything ready at the academy.
 
 
 ### Contact <br>
