@@ -21,7 +21,7 @@ Honolulu, HI 96826 <br>
 
 ### Contact <br>
 If you need to get ahold of us <br>
-Jason: (808) 295-6205
+Jason: (808) 295-6205 <br>
 Alyssa: (808) 721-6097
  
 Or slack us!
