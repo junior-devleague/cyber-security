@@ -2,7 +2,7 @@
 
 ### Topics
 - Today we started class by going over the Cyer Patriot rules and whats new this year in the competition.
-- We then moved to computers and downlaod the images for the competition along with vmware 12.5.7 and packet tracer 7.1.
+- We then moved to computers and downloaded the images for the competition along with vmware 12.5.7 and packet tracer 7.1.
 - We also copied an Ubuntu 14 image from thumb drives to be used for exta practice.
 - Everyone then had the option to work on whatever they felt they needed more practice (Packet Tracer, Linux, or Windows)
 - See previous slack links for practice labs!
