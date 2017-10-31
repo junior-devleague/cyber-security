@@ -8,6 +8,7 @@ Honolulu, HI 96826 <br>
 (808) 738-6406 <br>
 
 ### When: <br>
+- Sunday 11/5/17
 - 11am-4pm 
 - Please get there before around 10:30am as the competition will start promptly at 11.
 - We may end early as well so make sure to tell your ride!
