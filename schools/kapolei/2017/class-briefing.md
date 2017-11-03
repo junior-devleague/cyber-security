@@ -1,3 +1,16 @@
+#Class Recap- Week 11 11/2/17 1:45pm-305pm
+
+### Topics
+- Today we worked on a packet tracer activity of creating a small network and configuring it
+- We had trouble with the ip address command on the switch which I am going to look into and will post solution
+- Then we talked about our notes and asked for the solutions to previous image vulnerabilities
+- We still need some practice feeling comfortable with commands but overall I think everyone will do well and regardless we've learned a lot already!
+
+**Homework:** <br>
+No homework just practice for the competition. Get some good sleep this weekend and come rested and ready on Sunday
+
+
+
 # Class Recap- Week 11 10/30/17 1:45pm-3:05pm
 
 ### Topics
