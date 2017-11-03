@@ -1,4 +1,4 @@
-#Class Recap- Week 11 11/2/17 1:45pm-305pm
+# Class Recap- Week 11 11/2/17 1:45pm-305pm
 
 ### Topics
 - Today we worked on a packet tracer activity of creating a small network and configuring it
