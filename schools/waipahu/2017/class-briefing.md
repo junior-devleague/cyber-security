@@ -469,5 +469,19 @@ November 3rd 2:30pm is when we will be doing cyber patriot qualification round. 
 
 Continue to work on netcad modules & packet tracer at home. Brings questions next class
 
+# Class Recap - Week 12 - 11/3/17 11:12am - 12:20pm
+
+## Topics
+Format of the class was as follows:
+- Started class talking about their strategy for CP round 1
+- Rest class spent on linux, windows, packet tracer refresh
+
+### Reminder
+November 3rd 2:30pm is when we will be doing cyber patriot qualification round. Please be on time.
+
+### Homework:
+
+NONE
+
 
 
