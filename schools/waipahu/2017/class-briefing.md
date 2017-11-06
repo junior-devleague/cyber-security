@@ -494,7 +494,7 @@ Format of the class was as follows:
 
 ### Homework:
   [CP Reflection Blog](https://github.com/junior-devleague/cyber-security/blob/master/homework/cp-round1-reflection.md)
-   Due 11/10/17 by 4pm. No late blogs accepted
+   - Due 11/10/17 4pm. No late blogs accepted
 
 
 
