@@ -483,5 +483,18 @@ November 3rd 2:30pm is when we will be doing cyber patriot qualification round. 
 
 NONE
 
+# Class Recap - Week 13 - 11/6/17 11:00am - 12:20pm
+
+## Topics
+Format of the class was as follows:
+- Started class talking about how CP round 1 went.
+- Talked about recent cyber news of fake WhatsAPP, Selling of signed certificates, and tor browswer IP leak.
+- Rest class have choice of linux modules or overthewire.
+
+
+### Homework:
+  [CP Reflection Blog](https://github.com/junior-devleague/cyber-security/blob/master/homework/cp-round1-reflection.md)
+   Due 11/10/17 by 4pm. No late blogs accepted
+
 
 
