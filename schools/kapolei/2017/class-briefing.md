@@ -1,4 +1,16 @@
-# Class Recap- Week 11 11/2/17 1:45pm-305pm
+# Class Recap- Week 12 11/6/17 1:45pm- 3:05pm
+
+### Topics 
+- On Sunday 11/5/17 we had our first round of Cyber Patriot where teams scored between 140-170 out of 200. But teams had trouble with the packet tracer and networking portion.
+- Today we started class by going around and talking about one thing we have learned so far and one thing we want to learn coming up.
+- Some things they learned are teamwork strategies, file searching using commands, time management, some linux commands, etc.
+- Some things they want to learn include scripting, more knowledge of vulnerabilities and how to fix them, ports, some packet tracer, specific search commands, etc.
+- Then we moved to computers and worked on a packet tracer example from Ciscos netacad that they turned in as an in-class assignmnet/homework grade.
+- The goal for the nest 4 weeks is to keep practicing linux and using commands so it feels easy. And then to also work on more vulnerabilities and how to address them.
+
+GOOD JOB!!!!
+
+# Class Recap- Week 11 11/2/17 1:45pm-3:05pm
 
 ### Topics
 - Today we worked on a packet tracer activity of creating a small network and configuring it
