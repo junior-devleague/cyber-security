@@ -12,5 +12,5 @@ Things to include:
 1. What are the command modes?
 1. List and explain the basic commands (Modes, passwords, hostname, saving, etc.)
 1. Interfaces and Ports.
-1. What is packet tracer and how can you use it to configure a network. 
+1. What is Packet Tracer and how can you use it to configure a network. 
 
