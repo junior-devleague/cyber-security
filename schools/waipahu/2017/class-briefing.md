@@ -496,5 +496,15 @@ Format of the class was as follows:
   [CP Reflection Blog](https://github.com/junior-devleague/cyber-security/blob/master/homework/cp-round1-reflection.md)
    - Due 11/10/17 4pm. No late blogs accepted
 
+# Class Recap - Week 13 - 11/8/17 11:12am - 12:38pm
 
+## Topics
+Format of the class was as follows:
+- Started class talking about cyber news of eutherium money being locked up.
+- Rest of class spent on overthewire and linux modules.
+
+
+### Homework Reminder:
+  [CP Reflection Blog](https://github.com/junior-devleague/cyber-security/blob/master/homework/cp-round1-reflection.md)
+   - Due 11/10/17 4pm. No late blogs accepted
 
