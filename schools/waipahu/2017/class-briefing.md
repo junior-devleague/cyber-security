@@ -507,4 +507,12 @@ Format of the class was as follows:
 ### Homework Reminder:
   [CP Reflection Blog](https://github.com/junior-devleague/cyber-security/blob/master/homework/cp-round1-reflection.md)
    - Due 11/10/17 4pm. No late blogs accepted
+   
+# Class Recap - Week 14 - 11/13/17 9:40m - 10:23am
+
+## Topics
+Format of the class was as follows:
+- Started class talking about cyber news of iphone face scan hack.
+- Rest of class spent on overthewire and linux modules.
+
 
