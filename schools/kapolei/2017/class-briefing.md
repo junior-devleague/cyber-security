@@ -3,6 +3,7 @@
 ### Topics 
 - Started class by talking about where students have been getting stuck with packet tracer.
 - Explained architecture of over the wire and what your doing under the hood.
+- Explained SSH and ports.
 - Rest of class was spent with overthewire hacking challenge.
 
 ### Homework
