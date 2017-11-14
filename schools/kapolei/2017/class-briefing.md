@@ -6,7 +6,7 @@
 - Rest of class was spent with overthewire hacking challenge.
 
 ### Homework
- NA
+ - Practice overthewire at home
 
 
 
