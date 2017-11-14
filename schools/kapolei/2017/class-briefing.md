@@ -1,3 +1,15 @@
+# Class Recap- Week 13 11/13/17 1:45pm- 3:05pm
+
+### Topics 
+- Started class by talking about where students have been getting stuck with packet tracer.
+- Explained architecture of over the wire and what your doing under the hood.
+- Rest of class was spent with overthewire hacking challenge.
+
+### Homework
+ NA
+
+
+
 # Class Recap- Week 12 11/6/17 1:45pm- 3:05pm
 
 ### Topics 
