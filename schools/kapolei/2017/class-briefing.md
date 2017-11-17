@@ -1,3 +1,12 @@
+# Class Recap- Week 13 11/16/17 1:45pm- 3:05pm
+
+### Topics
+- Started class at computers and talked a little bit about NSA being hacked
+- Then we worked on over the wire and packet tracer
+- Some students got close to level 10 while others made some progress on Packet Tracer
+
+
+
 # Class Recap- Week 13 11/13/17 1:45pm- 3:05pm
 
 ### Topics 
