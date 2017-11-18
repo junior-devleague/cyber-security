@@ -515,12 +515,19 @@ Format of the class was as follows:
 - Started class talking about cyber news of iphone face scan hack.
 - Rest of class spent on overthewire and linux modules.
 
-# Class Recap - Week 14 - 11/15/17 11:12am - 12:38am
+# Class Recap - Week 14 - 11/15/17 11:12am - 12:38pm
 
 ## Topics
 Format of the class was as follows:
 - Started class talking about cyber news of iphone face scan hack.
 - Went over CP round 1 scores and talked about what they may have missed from documentation.
-- Worked with Ubuntu image practicing commands 
+- Worked with Ubuntu image practicing commands
+
+# Class Recap - Week 14 - 11/17/17 11:00am - 12:20pm
+
+## Topics
+Format of the class was as follows:
+- Started class with update on linux modules and comfortability.
+- Continued to work on linux and packet tracer.
 
 
