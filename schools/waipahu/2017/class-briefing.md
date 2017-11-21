@@ -530,4 +530,8 @@ Format of the class was as follows:
 - Started class with update on linux modules and comfortability.
 - Continued to work on linux and packet tracer.
 
+# Class Recap - Week 15 - 11/20/17 9:40am - 10:23am
+## Topics
+Format of the class was as follows:
+- Continued to work on linux and packet tracer.
 
