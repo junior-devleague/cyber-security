@@ -1,3 +1,17 @@
+# Class Recap- Week 14 11/20/17 1:45pm- 3:05pm
+
+### Topics
+- Started class on time with about 8 students and moved pretty directly to computers. 
+- We started by downloading wireshark into our ubuntu image 
+- Then I did a lecture on Ports and Protocols (Think destination ports not physical ports and protocols to help with encryption, connection, email and application)
+- I demonstrated port scanning, pinging, sending ICMP requests in packet tracer, a nmap/zenmap scan, and capturing traffic in wireshark)
+- In class activity: Use Wireshark to capture traffic on the network and take a screen shot of something cool and submit it to google drive folder. 
+
+### Homework 
+Read Netacad Modules 5 and 6 (RSE Chapter 1 and 2) and complete 1 of the activities listed in the homework.
+DUE: By 11:59pm on Sunday 11/26/17
+[Homework](https://github.com/junior-devleague/cyber-security/blob/master/homework/Netacd-Module5-and-Module6.md)
+
 # Class Recap- Week 13 11/16/17 1:45pm- 3:05pm
 
 ### Topics
