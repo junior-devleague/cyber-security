@@ -1,4 +1,5 @@
-# Homework- Due 11/2/17
+# Introduction to Switched Networks and Cyber Patriot Cheat Sheet
+Due 11/2/17
 
 ## Part 1: 
 In your networking folder create a google document titled *Module 5: Introduction to Switched Networks*. Write a summary of the chapter as if you were explaing it to someone who knows nothing about computers.
