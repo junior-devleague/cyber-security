@@ -535,3 +535,11 @@ Format of the class was as follows:
 Format of the class was as follows:
 - Continued to work on linux and packet tracer.
 
+# Class Recap - Week 15 - 11/22/17 11:12am - 12:38pm
+## Topics
+Format of the class was as follows:
+- Talked about cyber news with uber hack.
+- Linux modules update 
+- Brief talk on scripting lesson 9.
+- Jamm time for rest of class with modules.
+
