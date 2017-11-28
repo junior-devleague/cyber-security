@@ -1,3 +1,21 @@
+# Class Recap- Week 15 11/27/17 1:45pm - 3:05pm
+
+### Topics
+Talked about the following important topics:
+- Cyber Patriot Competition Round 2 will be held on Friday 12/8/17 at 8am. Mr. Salter will give you paperwork to fill out on Thursday.
+- COME TO CLASS AND TURN IN YOUR HOMEWORK: If you dont come to class you miss out on what we are teaching in class and the hands on practice. If you dont do your homework you are not taking full advantage of your learning experience and are hurting yourself and your classmates/teamates.
+- Remeber to come to class with questions!
+
+<br>
+- In class today we downloaded a practice Ubuntu image and worked on that for about an hour. The highest score was 39/100 points so we still have some work to do. If anyone is interested in practicing at home let us know and we can help you get a lab set up.
+
+**Homework:**
+If you havent done the homework that was due last night turn it in this week for slightly less credit (Its important to keep up in class so you dont get behind).
+- Homework for this week is to post a blog on Netacad Module 7 about VLAN's **Due Friday 12/1/17 by 4pm.**
+https://github.com/junior-devleague/cyber-security/blob/master/homework/Netacad-Module7.md
+
+
+
 # Class Recap- Week 14 11/20/17 1:45pm- 3:05pm
 
 ### Topics
