@@ -3,6 +3,7 @@
 ### Topics
 Talked about the following important topics:
 - Cyber Patriot Competition Round 2 will be held on Friday 12/8/17 at 8am. Mr. Salter will give you paperwork to fill out on Thursday.
+- We will be holding an oline (google hangouts) training session this Thursday 11/30/17 and next week Thursday 12/7/17. Only the first 15 people to call in will have access as google hangouts restricts to 15 people.
 - COME TO CLASS AND TURN IN YOUR HOMEWORK: If you dont come to class you miss out on what we are teaching in class and the hands on practice. If you dont do your homework you are not taking full advantage of your learning experience and are hurting yourself and your classmates/teamates.
 - Remeber to come to class with questions!
 
