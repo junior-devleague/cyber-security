@@ -543,3 +543,11 @@ Format of the class was as follows:
 - Brief talk on scripting lesson 9.
 - Jamm time for rest of class with modules.
 
+# Class Recap - Week 16 - 11/27/17 9:40am - 10:23am
+## Topics
+Format of the class was as follows:
+- Talked talking about next round 2 CP.
+- Round 2 CP will take place 12/8/17 @ 2:45 at WHS.
+- Determined what needs to be covered rest of remaining classes.
+- Continue to work with linux
+
