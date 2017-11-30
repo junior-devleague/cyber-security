@@ -551,3 +551,11 @@ Format of the class was as follows:
 - Determined what needs to be covered rest of remaining classes.
 - Continue to work with linux
 
+# Class Recap - Week 16 - 11/29/17 11:12am - 12:38pm
+## Topics
+Format of the class was as follows:
+- Started class talking about cyber news of apple root flaw in high sierra.
+- Talked about topics slacked to cover for CP round 2. 
+- Richards Birthday ......
+- Students given new ubuntu image with scoring engine to work on for practice for CP round 2.
+
