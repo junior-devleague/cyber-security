@@ -1,3 +1,12 @@
+# Class Recap- Week 15 11/30/17 1:45pm - 3:05pm
+### Topics
+- Today we reminded everyone that the competitio is nect Friday 11/8/17 in class and Mr. Salter gave out permission forms
+- Then we moved to computers and worked on linux image till about 2:40
+- Then we had students come up and live code different "fixes" to the images. Some things like basic user management, how to search for hidden files, how to purge applications/programs, updates, etc. 
+
+**Homework:** 
+Keep Practicing!
+
 # Class Recap- Week 15 11/27/17 1:45pm - 3:05pm
 
 ### Topics
