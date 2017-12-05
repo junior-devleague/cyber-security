@@ -559,3 +559,11 @@ Format of the class was as follows:
 - Richards Birthday ......
 - Students given new ubuntu image with scoring engine to work on for practice for CP round 2.
 
+# Class Recap - Week 17 - 12/4/17 9:40am - 10:23am
+## Topics
+Format of the class was as follows:
+- Started class talking about cyber news of paypal hack and shutdown of Andromeda botnet.
+- Talked about game plan for rest of classes before round 2.
+- Went over how to get more points on current linux image.
+- Quickly went over cron jobs and how they are used.
+
