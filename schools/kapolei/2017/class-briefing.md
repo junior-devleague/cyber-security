@@ -1,6 +1,20 @@
+# Class Recap- Week 16 12/4/17 1:45pm - 3:05pm
+### Topics
+- Today we had Ken come and visit from the Public Schools of Hawaii Foundation for about the first 30 minutes of class.
+- We talked about the Cyber Patriot competition briefly (When: Friday 8am & Where: Mr. Salters class)
+- Moved to computers and worked on Linux Practice Image
+- Went over find command, deleting and changing user accounts, etc
+- Implemented an Exit Pass system where students have to turn in something that proves they were in class and is worth points everyday
+
+**Homework**
+Turn in any missing homework to Slack! Their are only a few weeks left of the semester so if you havent turned in any homework, now is the time! <br>
+[Module 7](https://github.com/junior-devleague/cyber-security/blob/master/homework/Netacad-Module7.md) <br>
+[Module 5 & 6](https://github.com/junior-devleague/cyber-security/blob/master/homework/Netacd-Module5-and-Module6.md)
+
+
 # Class Recap- Week 15 11/30/17 1:45pm - 3:05pm
 ### Topics
-- Today we reminded everyone that the competitio is nect Friday 11/8/17 in class and Mr. Salter gave out permission forms
+- Today we reminded everyone that the competition is next Friday 11/8/17 in class and Mr. Salter gave out permission forms
 - Then we moved to computers and worked on linux image till about 2:40
 - Then we had students come up and live code different "fixes" to the images. Some things like basic user management, how to search for hidden files, how to purge applications/programs, updates, etc. 
 
