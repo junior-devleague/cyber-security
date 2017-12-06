@@ -567,3 +567,12 @@ Format of the class was as follows:
 - Went over how to get more points on current linux image.
 - Quickly went over cron jobs and how they are used.
 
+# Class Recap - Week 17 - 12/6/17 9:25am - 12:20pm
+## Topics
+Format of the class was as follows:
+- Started class talking about cyber news of google server crash.
+- Worked with teams to develope stragety to attack new round images.
+- Currate list of high level vulnerabilities with associated commands.
+
+## Homework
+  - Keep working on list of commands for competition round Friday.
