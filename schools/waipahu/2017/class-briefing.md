@@ -576,3 +576,13 @@ Format of the class was as follows:
 
 ## Homework
   - Keep working on list of commands for competition round Friday.
+  
+# Class Recap - Week 17 - 12/6/17 9:25am - 12:20pm
+## Topics
+Format of the class was as follows:
+- Started class talking about how everyone's break went and what they learned over it. 
+- Talked about what we will be learning for the rest of semester after CP.
+- Decided on CP state round for 1/19 @ 2:30pm
+
+## Homework
+- Come with questions/material that you want to cover before state round.
