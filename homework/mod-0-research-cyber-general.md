@@ -11,6 +11,6 @@ Your boss has asked for the following:
 
 - Create a Medium blog and post your first article on anything cyber related that you think might draw some readership.
 - Your blog post should be at least a 3 min read.
-- A few example topics could be cyber bullying, recent cyber attacks, cyberwarfare, how to stay safe online, and more. Try to pick one topic to research in depth.
+- A few example topics could be cyber bullying, ethics of cyber security, passwords, recent cyber attacks, cyberwarfare, how to stay safe online, and more. Try to pick one topic to research in depth.
 
 **GO!!!**
