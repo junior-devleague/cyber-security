@@ -1,3 +1,23 @@
+# Second Semester
+
+# Class Recap - Week 19 1/11/18
+### Topics
+
+
+# Class Recap - Week 19 1/8/18
+### Topics
+- First day of class after the Christmas Break
+- 
+
+# First Semester
+
+# Class recap - Week 18
+ - This was finals week so we held a 1.5 hour final on our regularly scheduled Monday Class period
+ - Final was packet trcaer 1.3.1.3 worth 100 pts (It grades it for you)
+ - Extra Credit option was packet tracer 2.3.1.2
+
+# Class recap - Week 17 
+
 # Class Recap- Week 16 12/4/17 1:45pm - 3:05pm
 ### Topics
 - Today we had Ken come and visit from the Public Schools of Hawaii Foundation for about the first 30 minutes of class.
