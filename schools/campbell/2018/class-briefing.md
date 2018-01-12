@@ -1,4 +1,4 @@
-# Class Briefing
+# James Campbell High School Class Briefing
 
 
 # Topics Week 1 1/8/18 - 1/12/18
@@ -8,13 +8,13 @@
 - Had students create accounts for Slack, medium, and github
 - Talked about ethics, what right and wrong mean and ethics realting to cyber security
 
-# Homework 
+### Homework 
 Write your first blog on Medium about any topic we have covered so far or something about cyber security you are interested in. make sure to publish it and then slack your link. 
 
 
 https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-0-research-cyber-general.md
 
-# Resources 
+### Resources 
 Slack link https://jrdevleague.slack.com/messages/G8SJW9MHU/convo/G7YGPSG11-1513883114.000219/
 
 Medium https://medium.com/
