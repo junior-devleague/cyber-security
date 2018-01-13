@@ -586,3 +586,12 @@ Format of the class was as follows:
 
 ## Homework
 - Come with questions/material that you want to cover before state round.
+
+# Class Recap - Week 17 - 12/8/17 11:12am - 12:20pm
+## Topics
+Format of the class was as follows:
+- Started class talking about ethics due to internet incident.
+- Started basics of python including, reppal, data types, functions, loops.
+
+## Homework
+  - None
