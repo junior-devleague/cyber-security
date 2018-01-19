@@ -1,22 +1,66 @@
-# Second Semester
+# Kapolei Class Briefing Second Semester
 
-# Class Recap - Week 19 1/11/18
+
+# Class Recap - Week 20 1/18/18 1:45 - 3:05pm 
+
 ### Topics
+- Started class at computers
+- Talked about exit pass, and where to find the exit pass template if your absent from class (team drive -> Course Documents)
+- I will post the exit pass before the end of class and you have till midnight that same night to post your response. Will be worth 25 points each
+- Then went over CP scoring engine and the possible vulnerabilities
+- Did a short live demonstration on Windows Server 2008
+- Downloaded images for competition on designated computers 
+- Ended class with a short video about passwords (Jimmy Kimmel Passwords)
+
+**Homework**
+Get some rest and come ready to rock and roll for competition tomorrow!!!!
 
 
-# Class Recap - Week 19 1/8/18
+# Class Recap - Week 20 1/15/18 12:30 - 2:30pm
+
 ### Topics
-- First day of class after the Christmas Break
-- 
+- Today was MLK day, but we decided to have a prep session for cyber patriot from 12:30-2:30
+- We went over checklists for all the images and looked at individual team study guide
+- Worked on a practice Windows image or whatever you felt you were wanting to practice
+- Then ended class with a short video on Cyber Security
+ 
+ # Class Recap - Week 19 1/11/18 1:45 - 3:05pm 
+### Topics
+- Downloaded a windows practce image and left the rest of class to choose what they wanted to work on
+- Decided in their teams who is going to do what during the competition
+- Some choose to work on homework, I also slacked out a bunch of packet tracer exercises to work on
+
+ 
+# Class Recap - Week 19 1/8/18 1:45 - 3:05pm 
+### Topics
+- First week of class after the Christmas Break
+- We had guests from Cyber Hui to start the class
+- We talked about changes to how the class is going to work (exit pass, less homework, more programming to come)
+- Then we jammed on going over packet tracer final and the commands needed to complete the lab
+
+**Homework**
+ Take notes on netacad module 13-15 as this is what the networking quiz for CP is going to be based off
+ DUE: Next Wednesday at 11:59pm 
 
 # First Semester
 
-# Class recap - Week 18
+# Class recap - Week 18 12/18/17 1:45 - 3:05pm 
+
+### Topcs
  - This was finals week so we held a 1.5 hour final on our regularly scheduled Monday Class period
  - Final was packet trcaer 1.3.1.3 worth 100 pts (It grades it for you)
  - Extra Credit option was packet tracer 2.3.1.2
 
-# Class recap - Week 17 
+# Class Recap - Week 17 12/11/17 1:45 - 3:05pm 
+
+### Topics 
+- This weekend was the 2nd round of CP competition
+- So we talked about how it went, what was challenging, what they liked or did good at, what was challenging. etc.
+- We also asked the students how they felt the class was going, what they had leared, what they wanted to learn and if there was anything they wanted changed
+- We assigned them a reflection paper worth 100 pts that was between 2-3 pages long
+- The papers were done in medium and linked in roadmap, with some of the more intriguing comments pulled out into a file in google drive
+Reflection Paper https://github.com/junior-devleague/cyber-security/blob/master/projects/Reflection%20paper.md
+
 
 # Class Recap- Week 16 12/4/17 1:45pm - 3:05pm
 ### Topics
