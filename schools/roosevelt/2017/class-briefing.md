@@ -1,5 +1,5 @@
 # Roosevelt Class Briefing
-Semester 2
+## Semester 2
 
 # Class Recap - Week 20 - 1/18/18 8 - 9:25AM
 
@@ -11,11 +11,17 @@ Semester 2
   - Then I did a short demonstration on how to use Windows Server 2008 GUI
     - We did things like disabling remote access, disabing guest account, where to find password policys, enabling auditing, etc.
     
+**Competition is this Sunday 1/21/18 from 11am - 5pm at the academy. Homework is to FINISH STUDY GUIDE BEFORE COMPETITION!!**
+
 
 # Class Recap - Week 20 - 1/16/18 8 - 9:25AM
 
 ### Topics
-- Today we talked about the accidental missile alert that went off. 
+- Today we talked about the accidental missile alert that went off and what people's reactions were
+- We talked about getting our news from multiple sources to make informed choices
+- Also talked about the security of the system, or lack of, and how that was most likely the main reason this happened
+- Then the rest of class (like 45 minutes) was spent working on the Open Source Study Guide (located in our Team google drive)
+- Everyone choose to keep working on notes and postpone lecture on Windows Server 2008 to Thursday
 
 
 # Class Recap - Week 20 - 1/15/18
@@ -23,16 +29,32 @@ Semester 2
 ### Topics
 - Martin Luther King Day - No School
 
+
+
 # Class Recap - Week 19 - 1/11/18 8 - 9:25AM
 
 ### Topics
 
+- We talked about what Open Source is and creating an open source document of notes for Cyber Patriot
+- We brainstormed what should be included and then assigned someone to organize the document (Thanks Tomoe, Chloe & Gabby!)
+- Each team/student used there own notes from the previous semester to help create this master document
+
 # Class Recap - Week 19 - 1/9/18 8 - 9:25AM
 
 ### Topics
+- We talked about meltdown and Spectre attacks that affect the CPU 
+- How to deal with vulerabilities that you discover (i.e notifying the company)
+- Updating your computers with most recent patches to help protect against thess types of vulnerabiltiies
+- Also talked a little bit about Bug Bounties 
+
+### Resources
+https://thehackernews.com/2018/01/meltdown-spectre-vulnerability.html
 
 # Class Recap - Week 19 - 1/8/18 9 - 9:45AM
+
 ### Topics
+- Today we split the class up based on some feedback we got last semester. Some students thought they were getting into a STEM 1 class and others were interested in HTML/CSS so about 6 of them are wokring with Mr. Kam on some related projects
+- The rest of the class is continuing with Cyber Patriot till it finishes (probably two more weeks), and then we will be transitioning to doing some Python
 
 
 
