@@ -1,4 +1,43 @@
-# Class Recap - Week 1 - 8/10/2017 8AM - 9.25AM
+# Roosevelt Class Briefing
+Semester 2
+
+# Class Recap - Week 20 - 1/18/18 8 - 9:25AM
+
+### Topics
+  - Today we talked a little bit about Global Game Jam and who was interested (maybe a couple)
+  - Then everyone worked on the open source study guide for Cyberpatriot
+  - I showed them the scoring engine from Cyber Patriot while they took notes 
+    - Things to remember: firewall ports, inbound and outbound rules, services running, task manager, processes, registry, etc.
+  - Then I did a short demonstration on how to use Windows Server 2008 GUI
+    - We did things like disabling remote access, disabing guest account, where to find password policys, enabling auditing, etc.
+    
+
+# Class Recap - Week 20 - 1/16/18 8 - 9:25AM
+
+### Topics
+- Today we talked about the accidental missile alert that went off. 
+
+
+# Class Recap - Week 20 - 1/15/18
+
+### Topics
+- Martin Luther King Day - No School
+
+# Class Recap - Week 19 - 1/11/18 8 - 9:25AM
+
+### Topics
+
+# Class Recap - Week 19 - 1/9/18 8 - 9:25AM
+
+### Topics
+
+# Class Recap - Week 19 - 1/8/18 9 - 9:45AM
+### Topics
+
+
+
+
+# Class Recap - Week 1 - 8/10/2017 8 - 9:25AM
 
 ### Topics
 Today was the first day of instruction. Format of the class was as follows:
