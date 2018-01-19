@@ -595,3 +595,11 @@ Format of the class was as follows:
 
 ## Homework
   - None
+  
+# Class Recap - Week 17 - 12/19/17 11:00am - 12:20pm
+## Topics
+Format of the class was as follows:
+- Class period used for last minute prep for CP state round taking place today.
+
+## Homework
+  - Do well in CP state round
