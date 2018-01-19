@@ -1,7 +1,6 @@
 # James Campbell High School Class Briefing
 
 
-
 # Week 2 1/15/19 - 1/19/18
 
 ## Topics
@@ -21,10 +20,12 @@
   - We also talked about bug bounties and what that means
   - We finished Cybersecurity essentials powerpoint on passwords
   - Then watched half of vice movie on Snowden and the government stealing our data
-
+- Friday
+  - In class work day working on writing assignment 
+  
 ### Homework
 Write a Medium blog about anything we went over in class this week, turn it in to Slack by Wednesday at 11:59pm
-
+https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-0-principles-of-cyber-security.md
 
 ### Resources
 Snowden video https://news.vice.com/article/state-of-surveillance-with-edward-snowden-and-shane-smith
@@ -40,12 +41,11 @@ Snowden video https://news.vice.com/article/state-of-surveillance-with-edward-sn
 - Tuesday
   - Talked about what Cybersecurity is, who devleague is and what to expect in the class
 - Wednesday 
-  - Talked about careers and went over what cyber security is and what we will be doing this semester in class
-  - Went over documents (Slack code of conduct, ethics code of of conduct)
+  - Got out laptops and went over documents (Slack code of conduct, ethics code of of conduct)
   - Had students create accounts for Slack, medium, and github
   - Talked about ethics, what right and wrong mean and ethics realting to cyber security
 - Thursday
-  - 
+  - Did a lecture on ethics from module 0
 - Friday
   - Did a Medium demonstration
   - Had first Medium blog assignment (cyber bullying, passwords, social media, etc.)
