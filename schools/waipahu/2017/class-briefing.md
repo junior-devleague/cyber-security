@@ -603,3 +603,11 @@ Format of the class was as follows:
 
 ## Homework
   - Do well in CP state round
+  
+# Class Recap - Week 17 - 12/19/17 9:40am - 10:23am
+## Topics
+Format of the class was as follows:
+  - Students worked on building a client browser in python.
+
+## Homework
+  - None
