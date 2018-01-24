@@ -577,7 +577,7 @@ Format of the class was as follows:
 ## Homework
   - Keep working on list of commands for competition round Friday.
   
-# Class Recap - Week 17 - 12/6/17 9:25am - 12:20pm
+# Class Recap - Week 17 - 12/11/17 9:25am - 12:20pm
 ## Topics
 Format of the class was as follows:
 - Started class talking about how everyone's break went and what they learned over it. 
@@ -587,7 +587,7 @@ Format of the class was as follows:
 ## Homework
 - Come with questions/material that you want to cover before state round.
 
-# Class Recap - Week 17 - 12/8/17 11:12am - 12:20pm
+# Class Recap - Week 17 - 1/10/18 11:12am - 12:20pm
 ## Topics
 Format of the class was as follows:
 - Started class talking about ethics due to internet incident.
@@ -596,7 +596,7 @@ Format of the class was as follows:
 ## Homework
   - None
   
-# Class Recap - Week 17 - 12/19/17 11:00am - 12:20pm
+# Class Recap - Week 17 - 1/19/18 11:00am - 12:20pm
 ## Topics
 Format of the class was as follows:
 - Class period used for last minute prep for CP state round taking place today.
@@ -604,14 +604,15 @@ Format of the class was as follows:
 ## Homework
   - Do well in CP state round
   
-# Class Recap - Week 17 - 12/19/17 9:40am - 10:23am
+# Class Recap - Week 17 - 1/22/18 9:40am - 10:23am
 ## Topics
 Format of the class was as follows:
   - Students worked on building a client browser in python.
 
 ## Homework
   - None
-# Class Recap - Week 18 - 12/19/17 11:12am - 12:38pmam
+  
+# Class Recap - Week 18 - 1/24/18 11:12am - 12:38pm
 ## Topics
 Format of the class was as follows:
   - Students worked on school network security policy for violating ethics contract.
