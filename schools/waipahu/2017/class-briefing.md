@@ -619,3 +619,11 @@ Format of the class was as follows:
 
 ## Homework
   - None
+  
+# Class Recap - Week 18 - 1/26/18 11:00am - 12:20pm
+## Topics
+Format of the class was as follows:
+  - Students worked on school network security policy for violating ethics contract.
+  - Due at end of class. Must slack link and print out.
+## Homework
+  - None
