@@ -1,6 +1,18 @@
 # Roosevelt Class Briefing
 ## Semester 2
 
+# Class Recap - Week 21 - 1/23/18 - 1/25/18 8-9::25AM
+
+### Topics
+- We had our Cyber Patriot competition last Sunday. Everything mostly went smooth and the teams did a great job
+- Monday was a teacher work day so no class
+- Tuesday there was bad traffic so Mr. Kam had the students write a couple paragraphs on their experience with Cyber Patriot
+- Then we talked a little bit about Python and the students went to repl.it and practiced some basic coding examples with Jason
+- Thursday we went over some Python again (data types, variables, and functions) 
+- Then we did a basic ask for input password activity
+- About 80% of the class knew what how to do it so then they had to figure out how to encrypt the password
+- This turned out to be more challenging than expected and I'm not sure if everyone got it by the end
+
 # Class Recap - Week 20 - 1/18/18 8 - 9:25AM
 
 ### Topics
