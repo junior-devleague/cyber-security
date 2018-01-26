@@ -1,5 +1,20 @@
 # Kapolei Class Briefing Second Semester
 
+# Class Recap - Week 21 1/23/18 - 1/25/18 
+
+### Topics
+- Monday was a teacher work day so their was no class
+- Thursday we started off talking about how everyone is feeling about Cyber Patriot
+- I think the overall consensus was that the state round was challenging and more difficult then expected
+- Maybe didnt score as well as they wanted too
+- Then everyone went into our Team drive into their individual folder and created a doc called name's Cyber Playbook
+- Here we just did a general mock up of what we want to include, some formatting of how we store the data and they copied their notes over from the semester
+- We will probably transition into using github, but I'm still not sure the best plan of attack
+- Ended class by talking about girlsgocyber
+
+### Homework/ Exit Pass
+For those of you who missed class, in our team drive, in the folder COURSE DOCUMENTS, is a file titled Alyss's Cyber Playbook. You need to go into your own folder and create a similar document and put your cyber notes into your own playbook.
+
 
 # Class Recap - Week 20 1/18/18 1:45 - 3:05pm 
 
