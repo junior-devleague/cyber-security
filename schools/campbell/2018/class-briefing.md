@@ -1,8 +1,26 @@
 # James Campbell High School Class Briefing
 ## Spring Semester
 
+# Week 3 1/22/18 - 1/25/18
 
-# Week 2 1/15/19 - 1/19/18
+# Topics
+- Monday Mrs. Yamamoto did class
+- Tuesday 
+  - Went over what an operating system is, what Linux is, what windows is, and virtualization
+  - See powerpoints below 
+- Wednesday 
+  - We downloaded VMware to the student host account
+  - Then got the images from a thumbdrive and created a new OS of Ubuntu 14
+  - Note: You have to turn on virtualization in the BIOS
+  - A few also got windows 10 up in VMware but not a priority since we wont be talking about windows for at least another week
+- Thursday
+  - Live coded some very basic commands like (cd, ls, mkdir, mv, and touch)
+  - Then gave the students an in class lab to work on going over different kinds of file system commands
+- Friday
+  - I think I am going to have students research linux on their own and write about it and then next week we are going to keep going with the lab(s)
+  
+
+# Week 2 1/15/18 - 1/19/18
 
 ## Topics
 - Monday was a holiday
