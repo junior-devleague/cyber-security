@@ -638,6 +638,6 @@ Format of the class was as follows:
 # Class Recap - Week 19 - 1/31/18 11:12am - 12:38pm
 ## Topics
 Format of the class was as follows:
-  - Assigned network survival kit.
+  - Assigned network survival kit and did short demo of nmap to tie into port scanner they will be building.
 ## Homework
   - None
