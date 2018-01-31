@@ -627,3 +627,17 @@ Format of the class was as follows:
   - Due at end of class. Must slack link and print out.
 ## Homework
   - None
+    
+# Class Recap - Week 19 - 1/29/18 9:40am - 10:23am
+## Topics
+Format of the class was as follows:
+  - NO SCHOOL
+## Homework
+  - None
+  
+# Class Recap - Week 19 - 1/31/18 11:12am - 12:38pm
+## Topics
+Format of the class was as follows:
+  - Assigned network survival kit.
+## Homework
+  - None
