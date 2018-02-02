@@ -1,7 +1,20 @@
 # Roosevelt Class Briefing
 ## Semester 2
 
-# Class Recap - Week 21 - 1/23/18 - 1/25/18 8-9::25AM
+# Class Recap - Week 22 - 1/29/18 - 2/1/18 
+
+### Topics
+- Monday we talked about Global Game Jam and Henry demonstrated the game they made to the class (Awesome job Henry!)
+- Then we talked about more python and the game engine Jason built which is what we are going to replicate in class
+- Jason did a short live coding demonstration on repl.it
+- Tuesday we talked about functions and defined the variables for the beggining of our game engine
+- Thursday Jason had to leave so he demonstrated how to create the function for one command (ls) and what it should kind of look like in the game
+- Then he left and we worked on defining the rest of the commands for our own version of the man pages
+
+### No homework have a great weekend!
+
+
+# Class Recap - Week 21 - 1/23/18 - 1/25/18 
 
 ### Topics
 - We had our Cyber Patriot competition last Sunday. Everything mostly went smooth and the teams did a great job
