@@ -6,10 +6,10 @@ Your task is to find an article on cyber security from 2017 or 2018 (the more re
 
 ### Your paper should be:
 - 3-5 minutes long
-- Free of gramatical erros
+- Free of gramatical errors
 - Have spaces between paragraphs
-- Include an introduction, topic sentences and conculsion as well as paragraphs with spaces between them
-- Make sure to write it as though you were explaining it to your grandma who knows nothing about computers
+- Include an introduction, topic sentences and conculsion as well as paragraphs with spaces between them.
+- Make sure to write it as though you were explaining it to your grandma who knows nothing about computers.
 
 ### Resources
 https://isc.sans.edu/newssummary.html
