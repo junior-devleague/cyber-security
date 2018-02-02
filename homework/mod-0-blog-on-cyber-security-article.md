@@ -12,6 +12,6 @@ Your task is to find an article on cyber security from 2017 or 2018 (the more re
 - Make sure to write it as though you were explaining it to your grandma who knows nothing about computers
 
 ### Resources
-
-hackerone
-hackernews.com
+https://isc.sans.edu/newssummary.html
+https://thehackernews.com/
+http://www.securityweek.com/
