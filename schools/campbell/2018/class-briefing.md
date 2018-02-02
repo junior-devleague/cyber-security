@@ -1,6 +1,33 @@
 # James Campbell High School Class Briefing
 ## Spring Semester
 
+# Week 4 1/28 - 2/2/18
+# Topics
+Monday 
+- Talked about blogs and had students who hadnt turned it in come talk to me and tell me why
+- Then did a little live coding in linux and showed them how to do basic commands
+- Everyone worked on lab for the rest of the class
+
+Tuesday
+- Today I had everyone randomly count off and move seats
+- Then we did 2 truths and a lie and everyone went around and shared theirs
+- Next I made some changes to the lab so I had them redownload it and work on it
+
+Wednesday
+- Worked on the linux lab, basic commands like cd, mkdir, echo, nano, etc
+- Those who had finished were supposed to help others
+
+Thursday
+- I assigned everyone a partner
+- With their partner they had to work on finishing the lab and each person turned in their own lab but had their partners name on it also
+- Nobody could move on till their partner was finished and they are scored based on the lowest grade between the 2
+- This was to encourage working together and checking each others work, and also making sure we all move on together
+- Then when each team was finished they were able to move on to terminus and a couple students chose to play a typing game 
+
+Friday
+- Blog assignment on Linux
+- If they finish they can play terminus
+
 # Week 3 1/22/18 - 1/25/18
 
 # Topics
