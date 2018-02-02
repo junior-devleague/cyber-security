@@ -1,5 +1,22 @@
 # Kapolei Class Briefing Second Semester
 
+# Class Recap - Week 22 1/28/18 - 2/1/18
+
+### Topics
+Monday
+- We went over ciphers and what they are
+- Talked about hashes, checksums, md5, data integrity, public/private key, etc
+- Then I printed out ceasar ciphers that they cut out 
+- I did a demonstration and gave them some examples and then each of them made their own and we decoded them
+
+Thursday
+- We continued with ciphers and they did a review ceasar cipher code
+- Then we talked about vigenere ciphers and they each made their own, then we crumpled it and tossed it a box and evryone randomly picked one to decode. 
+- We talked about morse code and students amde their own code
+- I showed example from strangers things and played an example morse code to hear what it sounds like
+- We didnt get through all types of ciphers so will continue next week
+
+
 # Class Recap - Week 21 1/23/18 - 1/25/18 
 
 ### Topics
