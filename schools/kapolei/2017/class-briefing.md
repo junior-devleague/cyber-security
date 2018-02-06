@@ -1,5 +1,22 @@
 # Kapolei Class Briefing Second Semester
 
+# Class Recap - Week 23 2/5/18 - 2/9/18
+
+### Topics
+Monday
+- Today we talked about ciphers again specifically a pigeon cipher or tic/tac/toe cipher
+- We then talked about Steganography which is hiding data/information in pictures
+- Everyone made there own message and disguised it in a picture they drew and we passed it around the class
+- For those of you who missed class today (and anytime last week) we have been talking a lot about ciphers. Research Ciphers and the different types (Substitution, shifts, morse code, pictures, steganography, etc.)
+
+** Homework** Do Cipher blog post. DUE SUNDAY 2/11/18 by 11:59pm 
+
+https://github.com/junior-devleague/cyber-security/blob/master/homework/cryptography-mod-blog-assignment.md
+
+Thursday
+- We are going to do some more decoding of messages I have
+- Then we are going to do a lab on hashes and/or steganography 
+
 # Class Recap - Week 22 1/28/18 - 2/1/18
 
 ### Topics
