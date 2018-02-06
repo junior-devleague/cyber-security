@@ -648,3 +648,11 @@ Format of the class was as follows:
   - Continued to jam on Network surivial kit.
 ## Homework
   - None
+  
+# Class Recap - Week 20 - 1/31/18 9:35am - 10:20am
+## Topics
+Format of the class was as follows:
+  - Continued to jam on Network surivial kit.
+  - Will be live coding solution next class to cover coding best practices.
+## Homework
+  - None
