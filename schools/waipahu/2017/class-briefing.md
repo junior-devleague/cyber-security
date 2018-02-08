@@ -656,3 +656,10 @@ Format of the class was as follows:
   - Will be live coding solution next class to cover coding best practices.
 ## Homework
   - None
+  
+# Class Recap - Week 20 - 2/7/18 11:00am - 12:38pm
+## Topics
+Format of the class was as follows:
+  - Live coded solution of network survival kit and talked about best practices, naming conventions, while walking through solutions.
+## Homework
+  - None
