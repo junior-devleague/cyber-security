@@ -663,3 +663,10 @@ Format of the class was as follows:
   - Live coded solution of network survival kit and talked about best practices, naming conventions, while walking through solutions.
 ## Homework
   - None
+
+# Class Recap - Week 20 - 2/9/18 11:00am - 12:20pm
+## Topics
+Format of the class was as follows:
+  - Started working on nebula level00. Will be giving live solution and lecture next class.
+## Homework
+  - None
