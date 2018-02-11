@@ -3,7 +3,7 @@
 You are an **u**ndercover spy for the United States government working on a secret proje**c**t to develop a new type of cipher. 
 You must research the different types of Ciphers that we have talked about and that are historically relevant. 
 
-Part 1 is to pick one cipher from this list and talk about the history of it, where it started, h**o**w it works, the good and bad, etc. Pick a cipher you do not **k**now anything about to research and write about!
+Part 1: is to pick one cipher from this list and talk about the history of it, where it started, h**o**w it works, the good and bad, etc. Pick a cipher you do not **k**now anything about to research and write about!
 - Enigma
 - Morse Code
 - Stegano**g**raphy
@@ -22,4 +22,6 @@ http://www.cryptogram.org/resource-area/cipher-types/
 
 Extra Credit: Decipher this!
 
-giuifg cei iprc tpnn du cei qprcni (hint i=e, n=l)
+Zpxwvq   Py   Srtpxu   (Hint, 3 words i=p)
+
+Name two ciphers I used in this blog
