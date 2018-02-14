@@ -670,3 +670,17 @@ Format of the class was as follows:
   - Started working on nebula level00. Will be giving live solution and lecture next class.
 ## Homework
   - None
+  
+# Class Recap - Week 21 - 2/12/18 9:40am - 10:23am
+## Topics
+Format of the class was as follows:
+  - NO Class
+## Homework
+  - None
+  
+# Class Recap - Week 21 - 2/14/18 11:12am - 12:38pm
+## Topics
+Format of the class was as follows:
+  - Live code and explain solution nebula level00
+## Homework
+  - 
