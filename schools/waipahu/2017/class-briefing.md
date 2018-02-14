@@ -683,4 +683,6 @@ Format of the class was as follows:
 Format of the class was as follows:
   - Live code and explain solution nebula level00
 ## Homework
-  - 
+  - BLOG due 2/19 explanation on how to solve Nebula level00 in your own words. Should use pictures and code snippets to make article more readable.
+  - Must be at least 5 minute read.
+  - Example of well documented solution https://medium.com/@Kan1shka9/nebula-level00-walkthrough-abec39d022b2
