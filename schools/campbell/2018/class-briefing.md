@@ -1,6 +1,50 @@
 # James Campbell High School Class Briefing
 ## Spring Semester
 
+# Week 6 2/12 - 2/16
+Monday
+  - Teachers Work day - No School
+Tuesday
+
+  - Talked about recent Cyber Security news and shared two articles 1 about the Olympics Network getting hacked during the opening ceremony, and then the other about Russian emplyees trying to mine for bitcoins using a nuclear super computer
+  - Then talked a little about NCL and had them research it to see if anyone is interested
+  - Then everyone started working on codeacademy learning the command line 
+  
+Wednesday
+  - Short day so we they continued to work on codeacademy
+  - About 3 students finished the rest are still working
+  - Those who finished I had them work on Over-The-Wire Bandit
+  
+Thursday
+  - Finish CodeAcademy
+  - Work on last in class linux assignment
+  - Play Over the wire
+  
+Friday
+  - We will have a blog assignment for today 
+
+# Week 5 2/5 - 2/9
+Monday
+  - Reviewed blogs that were due today and spent first 30 minutes correcting students blogs
+  - Had to talk about plagerism and hwo to correctly site a source in your writing
+  - Then I slacked out Linux Lab 2 file permissions
+  
+Tuesday 
+  - Worked on Linux Lab 2
+  
+Wednesday
+  - Worked on Linux Lab 2
+  
+Thursday
+  - Did a live demo on some commands that the lab had covered 
+  - Then everyone worked on Linux Lab 2 
+  - If everyone finished to at least Part 2 and turned it in by the end of class on Thursday we could take a vote and eitehr play games or watch a movie on Friday
+  
+Friday
+  - Since everyone turned in their lab we took a vote and the class decided they wanted to play games
+  - Gave everyone 3 options (Vim adventures, Bandit, or emacs "game")
+  - Then about halfway through class I showed them a few more games to play that were based on linux OS  
+
 # Week 4 1/28 - 2/2/18
 # Topics
 Monday 
