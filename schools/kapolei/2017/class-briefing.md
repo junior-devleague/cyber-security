@@ -1,5 +1,14 @@
 # Kapolei Class Briefing Second Semester
 
+# Class Recap - Week 24 2/12/18 - 2/14/18
+Monday
+- Teachers work Day No Class
+
+Thursday
+- Talk about Cipher blogs and had students share the ciphers they made
+- Download a Windows and maybe Linux Virtual Machine to work on?
+- Then do cyber security labs on Steganography and the other on hashes
+
 # Class Recap - Week 23 2/5/18 - 2/9/18
 
 ### Topics
@@ -14,8 +23,12 @@ Monday
 https://github.com/junior-devleague/cyber-security/blob/master/homework/cryptography-mod-blog-assignment.md
 
 Thursday
-- We are going to do some more decoding of messages I have
-- Then we are going to do a lab on hashes and/or steganography 
+ Put up the girls go Cyber Challenges (One was a caesar Cipher and the other was a QR code)
+- Everyone worked on the two puzzles and then we moved to computers
+- I had a few cipher challenges for everyone to work on 
+- Ended up spending the whole class working on them
+ - Giuifg   cei   iprc   tpnn   du   cei   qprcni      (hint i=e,     n=l)
+ - VECIHXEJZXMA ( Hint: TCP/IP= key)  
 
 # Class Recap - Week 22 1/28/18 - 2/1/18
 
