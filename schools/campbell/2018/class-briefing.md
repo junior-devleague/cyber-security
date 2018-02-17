@@ -4,9 +4,9 @@
 # Week 6 2/12 - 2/16
 Monday
   - Teachers Work day - No School
+  
 Tuesday
-
-  - Talked about recent Cyber Security news and shared two articles 1 about the Olympics Network getting hacked during the opening ceremony, and then the other about Russian emplyees trying to mine for bitcoins using a nuclear super computer
+  - Talked about recent Cyber Security news and shared two articles 1 about the Olympics Network getting hacked during the opening ceremony, and then the other about Russian employees trying to mine for bitcoins using a nuclear super computer that is 1 petaflop
   - Then talked a little about NCL and had them research it to see if anyone is interested
   - Then everyone started working on codeacademy learning the command line 
   
@@ -16,12 +16,11 @@ Wednesday
   - Those who finished I had them work on Over-The-Wire Bandit
   
 Thursday
-  - Finish CodeAcademy
-  - Work on last in class linux assignment
-  - Play Over the wire
+  - Finish CodeAcademy (Need to show me your finished to be checked off)
+  - Work on last in class linux assignment then if finished you could play overtherwire or terminus
   
 Friday
-  - We will have a blog assignment for today 
+  - I was going to assign a blog but everyone had been doing a great job and I had a lot of grades for everyone so we got to watch the movie Wargames from 1988. We got to about the 1 hour mark. **IF you have not finished codeacademy work on it over the weekend and send me a screenshot that you completed it**
 
 # Week 5 2/5 - 2/9
 Monday
