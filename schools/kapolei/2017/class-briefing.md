@@ -2,12 +2,17 @@
 
 # Class Recap - Week 24 2/12/18 - 2/14/18
 Monday
-- Teachers work Day No Class
+- Teachers Work Day No Class
 
 Thursday
-- Talk about Cipher blogs and had students share the ciphers they made
-- Download a Windows and maybe Linux Virtual Machine to work on?
-- Then do cyber security labs on Steganography and the other on hashes
+- Talked a little bit about the Olympics and the hack that happened at the olympics
+https://thehackernews.com/2018/02/pyeongchang-2018-winter-olympics.html
+- Then talked about Bitcoins (We'll talk more about it next week)
+https://thehackernews.com/2018/02/supercomputer-mining-bitcoin.html
+- Then we talked about the Cipher blog homework, and the enigma
+- Then because we had a smaller class I had them break up into groups and create their own cipher
+- We didnt get to share them because we ran out of time so we'll continue next class
+
 
 # Class Recap - Week 23 2/5/18 - 2/9/18
 
