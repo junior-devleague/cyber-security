@@ -1,15 +1,38 @@
 # Roosevelt Class Briefing
 ## Semester 2
 
+# Class Recap - Week 24 - 2/12/18  2/15/18
+### Topics
+Monday
+  - Teacher Work day
+  - However on Sunday we had our semi-final round for Cyber Patriot for Henry team 
+  - Did some more Python Programming on our game engine
+Thursday
+  - Started class talking about the Olympics and how the opening ceremony got hacked
+  - https://thehackernews.com/2018/02/pyeongchang-2018-winter-olympics.html
+  - Discussed a little bit of why someone would want to hack the olympics, who would do it and how did they do it
+  - Then talked a little bit about bitcoins and how some Russian employees a nuclear power plant decided to mine bitcoins on their super computer and got caught trying to connect it to the internet.
+  - https://thehackernews.com/2018/02/supercomputer-mining-bitcoin.html
+  - Then we got a little sidetracked and started playing game of hacks looking at web vulenrabilities
+  - http://www.gameofhacks.com/game
+  
+# Class Recap - Week 23 - 2/5/18 - 2/8/18
+Monday
+Tuesday
+Thursday
+ 
+
 # Class Recap - Week 22 - 1/29/18 - 2/1/18 
 
 ### Topics
-- Monday we talked about Global Game Jam and Henry demonstrated the game they made to the class (Awesome job Henry!)
-- Then we talked about more python and the game engine Jason built which is what we are going to replicate in class
-- Jason did a short live coding demonstration on repl.it
-- Tuesday we talked about functions and defined the variables for the beggining of our game engine
-- Thursday Jason had to leave so he demonstrated how to create the function for one command (ls) and what it should kind of look like in the game
-- Then he left and we worked on defining the rest of the commands for our own version of the man pages
+Monday 
+  - we talked about Global Game Jam and Henry demonstrated the game they made to the class (Awesome job Henry!)
+  - Then we talked about more python and the game engine Jason built which is what we are going to replicate in class
+  - Jason did a short live coding demonstration on repl.it
+Tuesday
+  - Talked about functions and defined the variables for the beggining of our game engine
+  - Thursday Jason had to leave so he demonstrated how to create the function for one command (ls) and what it should kind of look like in the game
+  - Then he left and we worked on defining the rest of the commands for our own version of the man pages
 
 ### No homework have a great weekend!
 
