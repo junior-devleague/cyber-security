@@ -1,4 +1,4 @@
-# Windows Cyber Prep Challenge 01
+# Windows Cyber Challenge 01
 You have been tasked with setting up new Windows machines for your organization. As a System Administrator your job is to comply with user requests for new systems but ensure that standard security best practices are in compliance.
 
 **IMPORTANT:** Document all of the steps you took for the following tasks to turn in your audit to your supervisor in an encrypted format.
