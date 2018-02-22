@@ -1,9 +1,28 @@
 # James Campbell High School Class Briefing
 ## Spring Semester
 
+# Week 7 
+Monday
+  - Presidents Day - No School
+  
+Tuesday
+  - We went over Windows Command line and did some live coding
+  - I shared my command line notes in slack
+  - Then everyone worked on the Windows basics Lab
+  
+Wednesday
+  - 
+  
+Thursday
+  - 
+  
+Friday
+  - No class
+  
+
 # Week 6 2/12 - 2/16
 Monday
-  - Teachers Work day - No School
+  - No class, teachers work day
   
 Tuesday
   - Talked about recent Cyber Security news and shared two articles 1 about the Olympics Network getting hacked during the opening ceremony, and then the other about Russian employees trying to mine for bitcoins using a nuclear super computer that is 1 petaflop
