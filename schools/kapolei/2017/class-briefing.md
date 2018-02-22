@@ -1,5 +1,14 @@
 # Kapolei Class Briefing Second Semester
 
+# Class Recap - Week 25 2/19/18 - 2/22/18
+
+Monday
+ - Presidents Day so No Class
+ 
+ Thursday
+  - Everyone shared their ciphers while we worked on figuring them out
+  - 
+
 # Class Recap - Week 24 2/12/18 - 2/14/18
 Monday
 - Teachers Work Day No Class
