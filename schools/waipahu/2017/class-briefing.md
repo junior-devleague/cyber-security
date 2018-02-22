@@ -695,3 +695,11 @@ Format of the class was as follows:
   - BLOG due 2/19 explanation on how to solve Nebula level00 in your own words. Should use pictures and code snippets to make article more readable.
   - Must be at least 5 minute read.
   - Example of well documented solution https://medium.com/@Kan1shka9/nebula-level00-walkthrough-abec39d022b2
+  
+  
+# Class Recap - Week 22 - 2/21/18 11:00am - 12:38pm
+## Topics
+Format of the class was as follows:
+  - Continued to work on nebula level01 with verbal solution I presented to them.
+## Homework
+  - Late blogs due by end of day today.
