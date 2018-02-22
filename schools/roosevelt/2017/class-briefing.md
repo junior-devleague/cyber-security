@@ -1,7 +1,26 @@
 # Roosevelt Class Briefing
 ## Semester 2
 
-# Class Recap - Week 24 - 2/12/18  2/15/18
+# Class recap - Week 25 - 2/19/18 - 2/22/18
+### Topics
+Monday
+  - No class Presidents Day
+  
+Tuesday
+  - Girls Go Cyber started so the girls worked on that during class
+  - Then the "boys" worked on taking the 10 thinkpad computers and dual booting them with Ubuntu OS
+  - Instalation took about 20 minutes
+  - We partitioned the host computer hard drive before to be about 200 GB but wasnt neccesary because we had the option when we booted
+  - There are a few security features we can implement when booting like encrpting the home folder
+  - use f12 and/or enter to boot to bios
+ 
+Thursday
+  - We talked briefly about locking down apps on your phone with your fingerprint and briefly about bitcoins
+  - Then we worked on setting up Jasons (Mom's) Netgear router so the computers could have internet access
+  - The only problem we ran into (Besides erics password handwriting) was that the computers didnt accept 5Gz so we had to change the configs on the router to 2.4Gz. 
+  - Then we installed something to program with Python (not sure I was helping the girls)
+
+# Class Recap - Week 24 - 2/12/18 - 2/15/18
 ### Topics
 Monday
   - Teacher Work day
