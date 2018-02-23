@@ -6,8 +6,10 @@ Monday
  - Presidents Day so No Class
  
  Thursday
-  - Everyone shared their ciphers while we worked on figuring them out
-  - 
+  - The girls did Girls go cyber while the rest of the class worked on making their own ciphers to share
+  - We had some creative ones using minecraft numbers, grids, and multiple ciphers
+  - We will be moving on next week back to working more on the computers
+  
 
 # Class Recap - Week 24 2/12/18 - 2/14/18
 Monday
