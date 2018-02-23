@@ -11,13 +11,17 @@ Tuesday
   - Then everyone worked on the Windows basics Lab
   
 Wednesday
-  - 
+  - Worked on Windows Basics Lab
+  - Everyone took notes 
   
 Thursday
-  - 
+  - Talked about some internship oppurtunities (Ask Mrs. Yamamoto)
+  - Then I slacked out a pdf with my notes for the first lab, A link to the second lab with notes and a third exercise doing some windows batch scripting
+  - Everyone worked on the lab for the first 24 minutes and then you guys convinced me to let you finish watching Wargames which finished right as the bell rang
+  - We will continue windows next week and then move on to some networking before spring break
   
 Friday
-  - No class
+  - No class Proffesional Development Day
   
 
 # Week 6 2/12 - 2/16
