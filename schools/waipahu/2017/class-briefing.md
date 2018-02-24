@@ -703,3 +703,11 @@ Format of the class was as follows:
   - Continued to work on nebula level01 with verbal solution I presented to them.
 ## Homework
   - Late blogs due by end of day today.
+
+# Class Recap - Week 22 - 2/23/18 11:12am - 12:20pm
+## Topics
+Format of the class was as follows:
+  - Small class today, helped solve level01
+  - Lecture & solution next class
+## Homework
+  - None
