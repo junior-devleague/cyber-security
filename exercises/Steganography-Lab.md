@@ -19,4 +19,4 @@ sudo apt-get install steghide
 
 3. Create a .txt document with the message you would like to encode in your image.
 
-![screen1.](C:\Users\Cyber Dev\Desktop\Capture.PNG)
+[[images/steglabimage1.png]]
