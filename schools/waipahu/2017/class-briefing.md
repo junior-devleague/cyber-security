@@ -711,3 +711,11 @@ Format of the class was as follows:
   - Lecture & solution next class
 ## Homework
   - None
+  
+# Class Recap - Week 23 - 2/28/18 11:12am - 12:38pm
+## Topics
+Format of the class was as follows:
+  - Went over nebula level01 solution talking about topics such as PATH, bash shell, symbolic links, reading C code, file permissions.
+  - Livecoded solution
+## Homework
+  - None
