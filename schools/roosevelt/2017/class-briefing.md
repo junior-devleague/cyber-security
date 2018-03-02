@@ -25,7 +25,10 @@ Thursday
 - If you want to work on this at home make sure **Your are only scanning a network you have permission to scan**
 
 Resources:
+
 https://nmap.org 
+
+https://gist.github.com/jaywon/14336fef31e7dc3eb2392d7cd15200c7
 
 
 Homework:
