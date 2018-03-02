@@ -1,7 +1,42 @@
 # Roosevelt Class Briefing
 ## Semester 2
 
-# Class recap - Week 25 - 2/19/18 - 2/22/18
+# Class Recap - Week 26 - 2/26/18 - 3/1/18
+Monday
+  - Short day
+  - Nmap Lecture on how to use it and what it is
+  - See Jason's Notes
+
+Tuesday
+  - Part of class was missing and was taking ACT
+  - Had an in class assignment of using nmap to scan the network and find out information about targets
+  - nmap -sP 192.168.1.1 (Ping Scan)
+    -sT = TCP connect scan
+    -sU = UDP scan
+    -p = ports
+    -A = Detect OS and Services
+    -sV = Service detection
+    
+Thursday
+- Students downloaded Wireshark 
+- Showed all the movies that nmap is in and talked about what kind of scans https://nmap.org/movies
+- Then we talked about Wireshark and ran an Nmap scan while also capturing traffic using Wireshark
+- Looked at the packets briefly, we will talk much more about this soon
+- If you want to work on this at home make sure **Your are only scanning a network you have permission to scan**
+
+Resources:
+https://nmap.org 
+
+
+Homework:
+Blogs are due on Monday 3/5/18!
+
+https://github.com/junior-devleague/cyber-security/blob/master/homework/Nmap-Blog.md
+
+  *Also if you read this recap slack me and tell me you read it and I will give you extra credit. I want to see how many people actually read this. 
+
+
+# Class Recap - Week 25 - 2/19/18 - 2/22/18
 ### Topics
 Monday
   - No class Presidents Day
@@ -16,7 +51,7 @@ Tuesday
  
 Thursday
   - We talked briefly about locking down apps on your phone with your fingerprint and briefly about bitcoins
-  - Then we worked on setting up Jasons (Mom's) Netgear router so the computers could have internet access
+  - Then we worked on setting up Jasons (Mom's) Netgear router so the computers could have internet acces
   - The only problem we ran into (Besides erics password handwriting) was that the computers didnt accept 5Gz so we had to change the configs on the router to 2.4Gz. 
   - Then we installed something to program with Python (not sure I was helping the girls)
 
