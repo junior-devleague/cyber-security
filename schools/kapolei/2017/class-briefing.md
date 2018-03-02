@@ -1,5 +1,27 @@
 # Kapolei Class Briefing Second Semester
 
+# Class Recap - Week 26 2/26/18 - 3/1/18
+Monday
+ - Installed Windows and Ubuntu Images on Computers
+ - We worked on the Steganography lab using winrar
+ - Follow lab and submit your encoded image to slack to get credit
+ 
+Thursday
+  - Worked on getting an Ubuntu Image and Windows Image up on system
+  - Then worked on finishing labs (windows and Ubuntu steganography labs)
+  - We were going to watch a video but people werent finishing the lab so we spent the whole class doing the lab
+  - Slack your steganography image to slack to get credit
+  
+Resources
+Steganography lab (windows): http://gcgapremium.com/steganography-exercise/
+Stegangrapjhy lab 2 (Ubuntu): https://www.drchaos.com/hiding-secret-messages-in-images-with-steganography-and-metadata/
+
+Ongoing Extra Credit:
+Podcast 1: I cant find link now so I will add it once I find it
+Podcast 2: https://www.npr.org/2017/11/09/563050434/once-an-underground-currency-bitcoin-emerges-as-a-new-way-to-track-information
+
+Also If you read this update slack me a direct message and tell me you read it and I will give you extra credit.
+
 # Class Recap - Week 25 2/19/18 - 2/22/18
 
 Monday
