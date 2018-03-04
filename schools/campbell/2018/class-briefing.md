@@ -1,7 +1,28 @@
 # James Campbell High School Class Briefing
 ## Spring Semester
 
-# Week 7 
+# Class Recap - Week 7 - 2/26/18 - 3/2/18
+Monday
+  - Worked on Windows Labs Because you guys Convinced me to let them finish watching war games
+  
+Tuesday
+  - No class ACT Testing
+  
+Wednesday
+  - Long day
+  - Henry from Roosevelt High School Came out to do some cool Linux stuff
+  - Those who hadnt finished the labs worked on the Windows Labs
+  
+Thursday
+  - Introduced Networking
+  - Had students download Packet Tracer into their Windows Virtual Machine
+  
+Friday
+  - Took a Windows comamnds Quiz
+  - Then had a blog assignment to write about commands learned in Linux
+ 
+  
+# Class Recap - Week 7 - 2/19/18 - 2/23/18
 Monday
   - Presidents Day - No School
   
