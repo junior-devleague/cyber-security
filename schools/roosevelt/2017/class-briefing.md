@@ -62,8 +62,11 @@ Thursday
 ### Topics
 Monday
   - Teacher Work day
-  - However on Sunday we had our semi-final round for Cyber Patriot for Henry team 
+  
+Tuesday
+  - Sunday we had our semi-final round for Cyber Patriot for Henry team 
   - Did some more Python Programming on our game engine
+  
 Thursday
   - Started class talking about the Olympics and how the opening ceremony got hacked
   - https://thehackernews.com/2018/02/pyeongchang-2018-winter-olympics.html
