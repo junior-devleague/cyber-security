@@ -4,7 +4,8 @@
 # Week 8 - 2/26/18 - 3/1/18
 Monday
   - We worked on Windows lab and I realized some people were very far behind and I'm not sure what they have been working on...
-  - 
+  - Spent most of the class period catchng up and going over the basic windows stuff to finish labs 1 and 2
+  
 Tuesday
   - No class as all students had ACT testing
   
@@ -25,7 +26,6 @@ Friday
   - We are having our second quiz, first one on Windows during the first 20 minutes of class (10 questions)
   - Blog assignment Due Wednesday
     - Pick 5 comamnds from lab1 and lab2 to describe with screenshots of your system with the commands (mkdir, dir, copy, excopy, move, rename, tasklist/taskkill, net user, net localgroup).
-    - 
 
 Resources
 Lab 1: https://github.com/junior-devleague/cyber-security/blob/master/exercises/windows-cmd-basics-challenge.md
