@@ -1,28 +1,39 @@
 # James Campbell High School Class Briefing
 ## Spring Semester
 
-# Class Recap - Week 7 - 2/26/18 - 3/2/18
+# Week 8 - 2/26/18 - 3/1/18
 Monday
-  - Worked on Windows Labs Because you guys Convinced me to let them finish watching war games
-  
+  - We worked on Windows lab and I realized some people were very far behind and I'm not sure what they have been working on...
+  - 
 Tuesday
-  - No class ACT Testing
+  - No class as all students had ACT testing
   
-Wednesday
-  - Long day
-  - Henry from Roosevelt High School Came out to do some cool Linux stuff
-  - Those who hadnt finished the labs worked on the Windows Labs
+ Wednesday
+  - Longer class period
+  - Henry came out to class and worked on some more advanced Linux Stuff with one group who had finished everything
+  - They worked on over-the-wire bandit levels 
+    - http://overthewire.org/wargames/bandit/
+  - I worked with everyone else on finishing up their labs (see resources below). 
+  - I got to work more one-on-one with anyone who was behind and hopefully helped everyone finish labs 1 and 2
   
 Thursday
-  - Introduced Networking
-  - Had students download Packet Tracer into their Windows Virtual Machine
+  - Introduced Networking Concepts (Powerpoint)
+  - What is Networking? Why is it important?
+  - Then had everyone download packet tracer into their windows image in preparation for our first networking exercise (not everyone finished download)
   
 Friday
-  - Took a Windows comamnds Quiz
-  - Then had a blog assignment to write about commands learned in Linux
- 
-  
-# Class Recap - Week 7 - 2/19/18 - 2/23/18
+  - We are having our second quiz, first one on Windows during the first 20 minutes of class (10 questions)
+  - Blog assignment Due Wednesday
+    - Pick 5 comamnds from lab1 and lab2 to describe with screenshots of your system with the commands (mkdir, dir, copy, excopy, move, rename, tasklist/taskkill, net user, net localgroup).
+    - 
+
+Resources
+Lab 1: https://github.com/junior-devleague/cyber-security/blob/master/exercises/windows-cmd-basics-challenge.md
+Lab 2: https://github.com/junior-devleague/cyber-security/blob/master/exercises/windows-cmd-user-management-challenge.md
+Lab 3 (Optional but worth Extra Credit): https://github.com/junior-devleague/cyber-security/blob/master/exercises/windows-cmd-permissions-management.md
+
+
+# Week 7 
 Monday
   - Presidents Day - No School
   
