@@ -1,5 +1,31 @@
 # Kapolei Class Briefing Second Semester
 
+# Class Recap - Week 28 3/12/18 - 3/15/18
+Monday
+ - Reviewed a little bit of what we have coverd in python so far (variables, strings, functions, print, input)
+ - Finished assignment 2 and then did warm-up 2
+ [repl.it assignments](https://repl.it/student/classrooms/51656)
+ 
+ Also If you read this update slack me a direct message and tell me you read it and I will give you extra credit.
+ 
+ 
+# Class Recap - Week 27 3/5/18 - 3/8/18
+Monday
+ - Showed the video I had wanted to show last class about the [hacking team](https://www.bing.com/videos/search?q=hacker+jhacke+the+power+grid&view=detail&mid=6E7C2051D8C6900823C76E7C2051D8C6900823C7&FORM=VIRE) who hacks into different companies
+ - Then we had a discussion about the video
+   - What did you find interesting or surprising?
+   - The importance of Physical security, etc. 
+ - Then we somehow segwayed into talking about bitcoins and crypto currency
+ - However, everyone was really engaged and interested in the topic so it was a good discussion
+ 
+Thursday
+ - Introduced Python
+ - I slacked out the link to create a repl.it account 
+   [repl.it](https://repl.it/student)
+ - We talked about functions and variables and worked on the hello world program and then assignment 2 
+ 
+ Also If you read this update slack me a direct message and tell me you read it and I will give you extra credit.
+
 # Class Recap - Week 26 2/26/18 - 3/1/18
 Monday
  - Installed Windows and Ubuntu Images on Computers
@@ -57,6 +83,7 @@ Monday
 - For those of you who missed class today (and anytime last week) we have been talking a lot about ciphers. Research Ciphers and the different types (Substitution, shifts, morse code, pictures, steganography, etc.)
 
 ** Homework** Do Cipher blog post. DUE SUNDAY 2/11/18 by 11:59pm 
+Also If you read this update slack me a direct message and tell me you read it and I will give you extra credit.
 
 https://github.com/junior-devleague/cyber-security/blob/master/homework/cryptography-mod-blog-assignment.md
 
