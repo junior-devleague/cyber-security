@@ -1,6 +1,44 @@
 # James Campbell High School Class Briefing
 ## Spring Semester
 
+# Week 10 - 3/12/18 - 3/16/18
+Monday
+  - Found out how everyone projects are going (seemed to be a range)
+  - 
+Tuesday
+  - Worked on projects in class today
+  - 
+Wednesday
+  - Projects are Due today at midnight as we will be presenting tomorrow (Thursday)
+  - Rubric will be posted so everyone knows what is expected
+  
+Thursday
+  - Presenting projects today (Should be a video/presentation sent to me ahead of time, as well as a handoutguide on how to do your topic)
+  
+Friday
+  - Leftover projects to be presented and then we will watch a video!
+
+# Week 9 - 3/5/18 - 3/9/18
+Monday
+  - Introduced networking and did the basics to netwokring presentation
+  - What are networks? Why do we need them? Why are they important? How does netwokring relate to cyber security?
+  
+Tuesday
+  - Everyone downloaded packet tracer and we worked on our concept of the network
+  - Then we had a lecture on IP addresses, converting between binary and decimal and so on
+  
+Wednesday
+  - Mrs. Yamamoto had a guest speaker today who talked about goals and dreams
+  
+Thursday
+  - Today we finished talking abut IP addresses, and some subnetting 
+  - Then we talked about the project and everyone drew numbers out of a hat
+  - Then we started with number 1 and they got to pick a project topic they wanted to do
+  
+Friday
+  - Worked on projects
+  - Filled out templates 
+
 # Week 8 - 2/26/18 - 3/1/18
 Monday
   - We worked on Windows lab and I realized some people were very far behind and I'm not sure what they have been working on...
