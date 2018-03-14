@@ -1,6 +1,33 @@
 # Roosevelt Class Briefing
 ## Semester 2
 
+# Class Recap - Week 28 - 3/12/18 - 3/16/18
+Monday
+  - Jason did a lecture on ncat/ netcat
+  - See his notes https://gist.github.com/jaywon/69e0fba9b044ecbc963d09d8a7a83194
+Tuesday
+  - Continued working on netcat and setting up a reverse bind shell
+  - See jason's notes above for syntax 
+  
+Thursday
+  - We will be taking our "assessment" at the beginning of class today
+  - Then we will probably be working on creating a python client/server socket program 
+  
+
+# Class Recap - Week 27 - 3/5/18 - 3/8/18
+Monday
+  - We didnt have class for some reason today?
+  
+Tuesday
+  - Talked about ssh and installed openssh on our linux computers
+  - Played arounf with sshing to other computers (IP's) in the classroom and "hacking" them
+  
+Thursday
+  - Got into groups and continued working on SSH and changing/modifying some file systems to enable/disable ssh logins
+  - Worked ons ending keys to another team and making sure ssh worked that way
+
+Also if you read this, slack me directly and tell me you read it and I will give you extra credit!
+
 # Class Recap - Week 26 - 2/26/18 - 3/1/18
 Monday
   - Short day
