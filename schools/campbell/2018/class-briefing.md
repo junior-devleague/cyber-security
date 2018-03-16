@@ -3,20 +3,24 @@
 
 # Week 10 - 3/12/18 - 3/16/18
 Monday
-  - Found out how everyone projects are going (seemed to be a range)
-  - 
+  - Found out how everyone's projects are going (seemed to be a range)
+  - then we spent the rest of class going over projects
+  
 Tuesday
   - Worked on projects in class today
-  - 
+  - I walked around and talked with everyone individually about how their project is going and what they needed help with
+  
 Wednesday
   - Projects are Due today at midnight as we will be presenting tomorrow (Thursday)
   - Rubric will be posted so everyone knows what is expected
   
 Thursday
   - Presenting projects today (Should be a video/presentation sent to me ahead of time, as well as a handoutguide on how to do your topic)
+  - Had 5-6 students present today and the rest will present tomorrow.
+  - If you didnt present today, make sure to turn it in to me before class on Friday!
   
 Friday
-  - Leftover projects to be presented and then we will watch a video!
+  - Rest of projects presented today and if there is extra time we will watch a short video on hacking!
 
 # Week 9 - 3/5/18 - 3/9/18
 Monday
