@@ -5,13 +5,15 @@
 Monday
   - Jason did a lecture on ncat/ netcat
   - See his notes https://gist.github.com/jaywon/69e0fba9b044ecbc963d09d8a7a83194
+  
 Tuesday
   - Continued working on netcat and setting up a reverse bind shell
-  - See jason's notes above for syntax 
+  - See jason's notes above for syntax and examples
   
 Thursday
-  - We will be taking our "assessment" at the beginning of class today
-  - Then we will probably be working on creating a python client/server socket program 
+  - Took our end of quarter "exam" today
+  - Ended up taking the whole class period but everyone did a really great job
+  - Have an great spring break!!
   
 
 # Class Recap - Week 27 - 3/5/18 - 3/8/18
