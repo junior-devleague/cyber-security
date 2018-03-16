@@ -15,6 +15,8 @@ Thursday
   - Ended up taking the whole class period but everyone did a really great job
   - Have an great spring break!!
   
+Also If you read this, slack me a private message and say "I read the update!" and I will give you extra credit
+  
 
 # Class Recap - Week 27 - 3/5/18 - 3/8/18
 Monday
