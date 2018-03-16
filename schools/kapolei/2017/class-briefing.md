@@ -6,6 +6,10 @@ Monday
  - Finished assignment 2 and then did warm-up 2
  [repl.it assignments](https://repl.it/student/classrooms/51656)
  
+thursday
+ - Started off class with a discussion on video games, spring break plans and a challenge/extra credit to spend time over spring break researching and doing something with cyber security / programming. 
+ - then Mr. Salter had a few announcements. All slacked in our channel, 
+ 
  Also If you read this update slack me a direct message and tell me you read it and I will give you extra credit.
  
  
