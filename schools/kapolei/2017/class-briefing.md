@@ -1,5 +1,19 @@
 # Kapolei Class Briefing Second Semester
 
+
+# Class Recap - Week 28 3/26/18 - 3/30/18
+Monday 
+ - KUHIO DAY NO CLASS!!
+ 
+Thursday
+ - Had everyone share 1 fun thing they did over spring break
+ - Then Everyone worked on cheer up PART 1
+ - I modified it over spring break so make sure you are working on cheer-up part 1
+ 
+
+# Class Recap - Week 27 3/
+SPRING BREAK NO CLASS!!!!
+
 # Class Recap - Week 28 3/12/18 - 3/15/18
 Monday
  - Reviewed a little bit of what we have coverd in python so far (variables, strings, functions, print, input)
