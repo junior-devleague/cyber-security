@@ -1,6 +1,29 @@
 # Roosevelt Class Briefing
 ## Semester 2
 
+# Class Recap - Week 30 - 3/26/18 - 3/20/18 
+Monday
+  - KUHIO DAY NO CLASS!!
+Tuesday
+  - Ended up being a short day
+  - So we had talked about our spring break for about 10-15
+  - Then we talked about Facebook and Cambridge Analytica data breach
+  - I also showed the BuzzFeed Video on internet privacy which is very relatable to our discussion
+  - Then We downloaded Visual Studio Code
+  - Talked about what a client/server socket program is and had half the class takes notes
+  - ALso assigned a blog due next Monday
+  https://github.com/junior-devleague/cyber-security/blob/master/homework/client-server-socket-blog.md
+  
+Thursday
+  - Everyone got in thier groups and we reviewed what the client/server program was
+  - Then I walked through the first few steps of the socket program 
+  - Then I slacked out the full server program and everyone had to create the client program
+  - 3 groups finished and so I had them change thier program to be like a magic 8 ball and actually spit out answers to a question
+
+# Class Recap - Week 29 - 3/19/18 - 3/23/18
+
+SPRING BREAK!!!1 NO CLASS!
+
 # Class Recap - Week 28 - 3/12/18 - 3/16/18
 Monday
   - Jason did a lecture on ncat/ netcat
