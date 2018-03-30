@@ -1,6 +1,33 @@
 # James Campbell High School Class Briefing
 ## Spring Semester
 
+#Week 12 - 3/26/18 - 3/30/18
+Monday
+  - KUHIO DAY!! NO SCHOOL
+  
+Tuesday
+  - Introduced new teacher
+  - Talked about spring break for the first 10
+  - Everyone went around and shared something fun they did
+  - Then we talked about facebook and some internet privacy issues
+  - Then I did a lecture on ports and protcols while everyone took notes (remember our notes are graded)
+  
+Wednesday
+  - Finished Ports and Protocols Lecture
+  - Downloaded Wireshark and did some test captures with a short demo on how to use it
+
+Thursday
+  - Talked about how to write a good blog
+  - Here is my example of some do's and donts https://medium.com/@alyssabk/wireshark-7800a2aa0fd2
+  - Then everyone worked on a writing a blog about Wireshark
+  - https://github.com/junior-devleague/cyber-security/blob/master/homework/wireshark-blog.md
+  
+Friday
+  - GOOD FRIDAY!! NO SCHOOL
+
+# Week 11 - 3/19/18 - 3/23/18
+SPRING BREAK!!!
+
 # Week 10 - 3/12/18 - 3/16/18
 Monday
   - Found out how everyone's projects are going (seemed to be a range)
