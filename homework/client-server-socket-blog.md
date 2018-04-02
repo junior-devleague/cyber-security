@@ -3,7 +3,7 @@
 
 ## Your Task
 
-Now that you are an expert on how a client-server socket programs work, just Kidding! You will be an expert soon, however, you may need to do more research on the client-server socket program.  Also do some research on the practical applications of the client-server socket model. What else can we do with a client-server socket pogram? Remember that the people reading your blog are probably not experts either, so make sure you define and exaplin the critical components. 
+Now that you are an expert on how a client-server socket programs work, just Kidding! You will be an expert soon, however, you may need to do more research on the client-server socket program.  Also do some research on the practical applications of the client-server socket model. What else can we do with a client-server socket pogram? Remember that the people reading your blog are probably not experts either, so make sure you define and explain the critical components. 
 
 ### Keywords to include and define:
 1. client
