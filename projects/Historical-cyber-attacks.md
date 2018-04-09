@@ -28,8 +28,6 @@ Topics to choose from:
 19. Hannaford Bros security breach 
 20. Operation Shady Rat
 
-Your intructor will have you draw numbers from a hat and that is how a topic is picked. This will prevent multiple people from researching the same cyber attack. 
-
 ## You will need to create a short 1-3 minute presentation to explain and teach your classmates about your topic. 
 
 
