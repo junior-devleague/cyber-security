@@ -38,7 +38,22 @@ Topics to choose from:
 ## What to work on today, Tuesday 4/10/18
 1. Research your topic and document your sources
 2. Write out an outline answering the 4 questions from the top specific to your topic
-3. 
+3. Write a draft of your paper
+4. Start your presentation (example: scrapbook, collage, diary, newspaper article, game)
+
+## Rubric
+Content:             40 pts
+Creativit:           30 pts
+Spelling & grammar:  20 pts
+Resources:           10 pts
+-----------------------------
+Total                100 pts
+
+ 
+
+## Due Date: 4/20/18 (subject to change)
+
+
 
 
 
