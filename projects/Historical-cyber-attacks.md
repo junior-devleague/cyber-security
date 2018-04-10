@@ -35,7 +35,7 @@ Topics to choose from:
 1. You need to write a short 2-4 page paper on your topic (could be a blog but needs to be extremely well done).
 2. You will need to create a short 1-3 minute presentation to explain and teach your classmates about your topic (Be creative!)
 
-## What to work on today, Tuesday 4/10/18
+## What to work on today, Tuesday 4/10/18 and Wednesday 4/11/18
 1. Research your topic and document your sources
 2. Write out an outline answering the 4 questions from the top specific to your topic
 3. Write a draft of your paper
