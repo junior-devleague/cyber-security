@@ -1,5 +1,5 @@
 
-# Hisotrical Cyber Attacks
+# Historical Cyber Attacks
 
 Do you believe the saying "we learn from our mistakes"? Your task is to either prove or disprove this statement by researching past cyber attacks to see if they have or can happen again.
 
@@ -32,8 +32,8 @@ Topics to choose from:
 19. Hannaford Bros security breach 
 
 ## What to do
-1. You need to write a short 2-4 page paper on your topic
-2. You will need to create a short 1-3 minute presentation to explain and teach your classmates about your topic. 
+1. You need to write a short 2-4 page paper on your topic (could be a blog but needs to be extremely well done).
+2. You will need to create a short 1-3 minute presentation to explain and teach your classmates about your topic (Be creative!)
 
 ## What to work on today, Tuesday 4/10/18
 1. Research your topic and document your sources
@@ -41,19 +41,15 @@ Topics to choose from:
 3. Write a draft of your paper
 4. Start your presentation (example: scrapbook, collage, diary, newspaper article, game)
 
+## **TURN IN TO ME BY THE END OF CLASS WHAT YOU WORKED ON OTHERWISE YOU WILL GET A 0 FOR THE DAY.**
+
+
 ## Rubric
-Content:             40 pts
-Creativit:           30 pts
-Spelling & grammar:  20 pts
-Resources:           10 pts
------------------------------
-Total                100 pts
+You will be graded on 4 main categories: 1)Content 2)Creativity 3)Effort and 4)Spelling/Grammar
 
  
-
-## Due Date: 4/20/18 (subject to change)
-
-
+## Final Due Date: 4/20/18 (subject to change)
+Please use your time in class today and tomorrow wisely as we will not be spending much more class time on this project. 
 
 
 
