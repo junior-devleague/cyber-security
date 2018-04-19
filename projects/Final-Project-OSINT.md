@@ -12,15 +12,15 @@ When conducting an OSINT investigation, it is important to remember that their a
 You have been hired by ________________________ to conduct an Open Source Intelligence Investigation of the company, evaluate their potential security risk, and give the company suggestions to improve their security posture. You will ONLY be gathering information on your specified company in order to write a report. You will need to use the knowledge you have gained this year, and the following tools to complete this project. 
 
 ### Possible Businesses
-The Honolulu Star Advertiser
-Hawaiian Airlines / Island Air
-HMSA
-Hawaiian Electrice Company
-Island Energy
-Board of Water Supply
-Your School
-Wet n' Wild
-Other Local Companies 
+- The Honolulu Star Advertiser
+- Hawaiian Airlines / Island Air
+- HMSA
+- Hawaiian Electrice Company
+- Island Energy
+- Board of Water Supply
+- Your School
+- Wet n' Wild
+- Other Local Companies (doctors offices, restaurants, places you visit, etc.)
 
 
 ### Tools to use
@@ -29,10 +29,11 @@ Other Local Companies
 3. Whois command (on linux)
   The syntax is very simple and is whois thewebsite.com
 4. [Netcraft](https://searchdns.netcraft.com/)
+5. Check public records
 5. Check for job openings, linkedin profiles, social media profiles
 
 ### Resources
-A sample penetration test report. Remember this project is only information gathering 
+A sample penetration test report. Remember this project is only information gathering:
 
 [Sans Pen Test](https://www.sans.org/reading-room/whitepapers/auditing/conducting-penetration-test-organization-67)
 
