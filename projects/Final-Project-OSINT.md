@@ -31,6 +31,7 @@ You have been hired by ________________________ to conduct an Open Source Intell
 4. [Netcraft](https://searchdns.netcraft.com/)
 5. Check public records
 5. Check for job openings, linkedin profiles, social media profiles
+6. Nessus web application scan
 
 ### Resources
 A sample penetration test report. Remember this project is only information gathering:
