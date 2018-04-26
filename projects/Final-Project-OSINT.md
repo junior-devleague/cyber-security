@@ -14,7 +14,7 @@ A bug bounty is something that is offered by websites, software develpers, or co
 ## Part 1: The Project
 What does all that mean to you? For your final project you need to pick one of the companies from the following list and evaluate their security posture.  You will need to use a combination of information (OSINT) gathering tools, vulnerability scanners, wand eb vulnerability exploitation tools.  You will need to use the knowledge you have gained this year, and the following tools to complete this project. 
 
-### Companies to Pick From 
+### Step 1: Pick a Company 
 **Make sure to follow the specific instructions given to you by the company**
 
 [Foxycart](https://bugcrowd.com/foxycart?utm_source=the-list&utm_medium=list-link&utm_campaign=foxycart)
@@ -22,7 +22,7 @@ What does all that mean to you? For your final project you need to pick one of t
 [Badoo](https://hackerone.com/badoo)
 
 
-### Tools to use
+### Step 2: Gather Information
 1. [OSINT Framework](http://osintframework.com/) Start with this set of tools! This is the main site used which has most of the tools I used.
 2. [Google hacking database](https://www.exploit-db.com/google-hacking-database/)
 3. Whois command (on linux)
@@ -30,7 +30,12 @@ What does all that mean to you? For your final project you need to pick one of t
 4. [Netcraft](https://searchdns.netcraft.com/)
 5. Check public records
 5. Check for job openings, linkedin profiles, social media profiles
-6. Nessus web application scan
+6. DNS tools
+7. Dig 
+
+### Step 3: Scan fo Vulnerabilities 
+6. Nessus web application scanner [nessus](https://www.tenable.com/downloads/nessus)
+7. Clone your website and look at it offline using [httrack](https://www.httrack.com/)
 
 ### Resources
 A sample penetration test report. Remember this project is only information gathering:
