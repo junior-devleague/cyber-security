@@ -41,7 +41,7 @@ What does all that mean to you? For your final project you need to pick one of t
 A sample penetration test report. Remember this project is only information gathering:
 
 [Sans Pen Test](https://www.sans.org/reading-room/whitepapers/auditing/conducting-penetration-test-organization-67)
-[Bug Bounty list](https://hackerone.com/bug-bounty-programs
+[Bug Bounty list](https://hackerone.com/bug-bounty-programs)
 
 ## Part 2: Presentation
 From the OSINT you have gathered you need to create a professional report detailing the information you found, the tools used, and your suggestions on how the company/business could improve their security posture. 
