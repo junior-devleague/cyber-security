@@ -6,21 +6,20 @@
                 
 ## Overview
 Open Source Intelligence (OSINT) is the first, longest and arguably the most important part of a penetration test. It is basically all of the information that can be obtained from publicaly available sources. The information gathered, would then be used to determine possible vulnerabilities that could be exploited.  
-When conducting an OSINT investigation, it is important to remember that their are two types of tools you may use- Passive and Active tools. Passive tools get their information in a way where the target was not touched, and where there is no trace/log of the activiy. Active tools will cross the boundry and actually penetrate the target 
 
-## Part 1: Gather Inforamtion
-You have been hired by ________________________ to conduct an Open Source Intelligence Investigation of the company, evaluate their potential security risk, and give the company suggestions to improve their security posture. You will ONLY be gathering information on your specified company in order to write a report. You will need to use the knowledge you have gained this year, and the following tools to complete this project. 
+When conducting an type of digital investigation, it is important to remember that there are two types of tools you may use- Passive and Active. Passive tools get their information in a way where the target was not touched, and where there is no trace/log of the activiy. Active tools will cross the boundry and actually penetrate the target. 
 
-### Possible Businesses
-- The Honolulu Star Advertiser
-- Hawaiian Airlines / Island Air
-- HMSA
-- Hawaiian Electrice Company
-- Island Energy
-- Board of Water Supply
-- Your School
-- Wet n' Wild
-- Other Local Companies (doctors offices, restaurants, places you visit, etc.)
+A bug bounty is something that is offered by websites, software develpers, or companies where individuals can recieve recognition and/or compensation for reporting bugs, exploits or vulnerabilities. The companies listed bellow were gathered from a bug bounty list which means they have given permission for people to test, hack, tweak and prod their site. 
+
+## Part 1: The Project
+What does all that mean to you? For your final project you need to pick one of the companies from the following list and evaluate their security posture.  You will need to use a combination of information (OSINT) gathering tools, vulnerability scanners, wand eb vulnerability exploitation tools.  You will need to use the knowledge you have gained this year, and the following tools to complete this project. 
+
+### Companies to Pick From 
+**Make sure to follow the specific instructions given to you by the company**
+
+[Foxycart](https://bugcrowd.com/foxycart?utm_source=the-list&utm_medium=list-link&utm_campaign=foxycart)
+[Coursera](https://hackerone.com/coursera)
+[Badoo](https://hackerone.com/badoo)
 
 
 ### Tools to use
@@ -37,6 +36,7 @@ You have been hired by ________________________ to conduct an Open Source Intell
 A sample penetration test report. Remember this project is only information gathering:
 
 [Sans Pen Test](https://www.sans.org/reading-room/whitepapers/auditing/conducting-penetration-test-organization-67)
+[Bug Bounty list](https://hackerone.com/bug-bounty-programs
 
 ## Part 2: Presentation
 From the OSINT you have gathered you need to create a professional report detailing the information you found, the tools used, and your suggestions on how the company/business could improve their security posture. 
