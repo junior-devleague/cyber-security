@@ -66,4 +66,5 @@ This project is due the week of May 14th - 18th
 ### Resources
 A sample penetration test report: [Sans Pen Test](https://www.sans.org/reading-room/whitepapers/auditing/conducting-penetration-test-organization-67)
 List of Bug Bounties: [Bug Bounty list](https://hackerone.com/bug-bounty-programs)
+[Sample Report](http://www.niiconsulting.com/services/security-assessment/NII_Sample_PT_Report.pdf)
 
