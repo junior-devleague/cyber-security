@@ -12,7 +12,7 @@ When conducting an type of digital investigation, it is important to remember th
 A bug bounty is something that is offered by websites, software develpers, or companies where individuals can recieve recognition and/or compensation for reporting bugs, exploits or vulnerabilities. The companies listed bellow were gathered from a bug bounty list which means they have given permission for people to test, hack, tweak and prod their site. 
 
 ## Part 1: The Project
-What does all that mean to you? For your final project you need to pick one of the companies from the following list and evaluate their security posture.  You will need to use a combination of information (OSINT) gathering tools, vulnerability scanners, wand eb vulnerability exploitation tools.  You will need to use the knowledge you have gained this year, and the following tools to complete this project. 
+What does all that mean to you? For your final project you need to pick one of the companies from the following list and evaluate their security posture.  You will need to use a combination of information (OSINT) gathering tools, vulnerability scanners, and vulnerability exploitation tools.  You will need to use the knowledge you have gained this year, and the following tools to complete this project. 
 
 ### Step 1: Pick a Company 
 **Make sure to follow the specific instructions given to you by the company**
@@ -28,6 +28,16 @@ What does all that mean to you? For your final project you need to pick one of t
 [GoJek](https://bugcrowd.com/gojek)
 
 [HubSpot](https://bugcrowd.com/hubspot)
+
+[Blabla Car](https://firebounty.com/bug-bounty-program/897/blablacar)
+
+[Coinkite](https://hackerone.com/coinkite)
+
+[Razer US](https://firebounty.com/bug-bounty-program/851/razer-us)
+
+[Nintendo](https://firebounty.com/bug-bounty-program/762/nintendo)
+
+[Boozt](https://firebounty.com/bug-bounty-program/706/boozt-fashion-ab)
 
 
 ### Step 2: Gather Information
@@ -47,15 +57,13 @@ What does all that mean to you? For your final project you need to pick one of t
 10. Burpsuite to scan for vulnerabilities [Burpsuite](https://portswigger.net/burp)
 
 
-### Resources
-A sample penetration test report:
-
-[Sans Pen Test](https://www.sans.org/reading-room/whitepapers/auditing/conducting-penetration-test-organization-67)
-[Bug Bounty list](https://hackerone.com/bug-bounty-programs)
-
 ## Part 2: Presentation
-From the OSINT you have gathered you need to create a professional report detailing the information you found, the tools used, and your suggestions on how the company/business could improve their security posture. 
+From the information you have gathered, you now need to create a professional report detailing the information you found, the tools used, and your suggestions on how the company/business could improve their security posture. 
 
 ## Part 3: Due Date
 This project is due the week of May 14th - 18th
+
+### Resources
+A sample penetration test report: [Sans Pen Test](https://www.sans.org/reading-room/whitepapers/auditing/conducting-penetration-test-organization-67)
+List of Bug Bounties: [Bug Bounty list](https://hackerone.com/bug-bounty-programs)
 
