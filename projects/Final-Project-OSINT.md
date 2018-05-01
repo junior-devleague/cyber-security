@@ -18,8 +18,16 @@ What does all that mean to you? For your final project you need to pick one of t
 **Make sure to follow the specific instructions given to you by the company**
 
 [Foxycart](https://bugcrowd.com/foxycart?utm_source=the-list&utm_medium=list-link&utm_campaign=foxycart)
+
 [Coursera](https://hackerone.com/coursera)
+
 [Badoo](https://hackerone.com/badoo)
+
+[Digital Ocean](https://bugcrowd.com/digitalocean)
+
+[GoJek](https://bugcrowd.com/gojek)
+
+[HubSpot](https://bugcrowd.com/hubspot)
 
 
 ### Step 2: Gather Information
@@ -34,11 +42,13 @@ What does all that mean to you? For your final project you need to pick one of t
 7. Dig 
 
 ### Step 3: Scan fo Vulnerabilities 
-6. Nessus web application scanner [nessus](https://www.tenable.com/downloads/nessus)
-7. Clone your website and look at it offline using [httrack](https://www.httrack.com/)
+8. Nessus web application scanner [nessus](https://www.tenable.com/downloads/nessus)
+9. Clone your website and look at it offline using [httrack](https://www.httrack.com/)
+10. Burpsuite to scan for vulnerabilities [Burpsuite](https://portswigger.net/burp)
+
 
 ### Resources
-A sample penetration test report. Remember this project is only information gathering:
+A sample penetration test report:
 
 [Sans Pen Test](https://www.sans.org/reading-room/whitepapers/auditing/conducting-penetration-test-organization-67)
 [Bug Bounty list](https://hackerone.com/bug-bounty-programs)
@@ -46,4 +56,6 @@ A sample penetration test report. Remember this project is only information gath
 ## Part 2: Presentation
 From the OSINT you have gathered you need to create a professional report detailing the information you found, the tools used, and your suggestions on how the company/business could improve their security posture. 
 
+## Part 3: Due Date
+This project is due the week of May 14th - 18th
 
