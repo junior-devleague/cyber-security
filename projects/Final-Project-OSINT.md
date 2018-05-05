@@ -53,25 +53,31 @@ What does all that mean to you? For your final project you need to pick one of t
 8. Theharvester
 
 
-### Step 3: Scan fo Vulnerabilities 
+### Step 3: Scan for Vulnerabilities 
 8. Nessus web application scanner [nessus](https://www.tenable.com/downloads/nessus)
 9. Clone your website and look at it offline using [httrack](https://www.httrack.com/)
 10. Burpsuite to scan for vulnerabilities [Burpsuite](https://portswigger.net/burp)
+11. Nikto 
+11. OWASP Zed Attack Proxy: [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 
 
 ## Part 2: Presentation
 From the information you have gathered, you now need to create a professional report detailing the information you found, the tools used, and your suggestions on how the company/business could improve their security posture. 
+
 Reporting tools
 - Dradis
 - Metagoofil
 - Magictree
 
-## Part 3: Due Date
-This project is due the week of May 14th - 18th
 
 ### Resources
 A sample penetration test report: [Sans Pen Test](https://www.sans.org/reading-room/whitepapers/auditing/conducting-penetration-test-organization-67)
+
 Lis of tools to use: [Tools](https://www.softwaretestinghelp.com/penetration-testing-tools/)
+
 List of Bug Bounties: [Bug Bounty list](https://hackerone.com/bug-bounty-programs)
+
 [Sample Report](http://www.niiconsulting.com/services/security-assessment/NII_Sample_PT_Report.pdf)
 
+## Part 3: Due Date
+This project is due the last week of school for Seniors (5/18/18)
