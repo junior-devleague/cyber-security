@@ -1,4 +1,4 @@
-#Extra Credit Oppurtunities
+# Extra Credit Oppurtunities
 
 1. Listen to either of the following podcasts and write 1/2 a page sumamry of each(5 pts each)
 [Learn about bitcoins](https://www.npr.org/2017/11/09/563050434/once-an-underground-currency-bitcoin-emerges-as-a-new-way-to-track-information)
