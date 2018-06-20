@@ -14,6 +14,6 @@ Your task is to find an article on cyber security from 2017 or 2018 (the more re
 ### Resources
 [Sans](https://isc.sans.edu/newssummary.html)
 
-(Hacker News)[https://thehackernews.com/]
+[Hacker News](https://thehackernews.com/)
 
-(Security Week)[http://www.securityweek.com/]
+[Security Week](http://www.securityweek.com/)
