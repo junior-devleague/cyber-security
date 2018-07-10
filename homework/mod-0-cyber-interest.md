@@ -1,6 +1,12 @@
 # Find Your Cyber Security Interest
 
-Cyber Security is a very big and exciting subject area. Do some research and find a few topics you are interested in learning more about. Write a 3-5 minute blog post on Medium describing specific things you are interested in with links to resources / ideas. 
+Cyber Security is a very big and exciting subject area. Do some research and find a few topics you are interested in learning more about.
+
+Part 1: 
+Find a current or recent technology related job posting that would be your "ideal job". Prefferably something that has to do with Cyber Security, however it could be any job in the technology field. Explain why this job is interesting to you and what skills, qualifications, or job requirments they list. 
+
+Part 2:
+Pick 2-3 of the following topics (or something else related to Cyber Security!) that you are personally interested in, and do some research on them. Explain what is interesting and what you want to know more about. Be Specific!!
 
 
 Some Example topics to pick from:
@@ -20,9 +26,12 @@ Some Example topics to pick from:
   - Digital Forensics
   - Bug Bounties
   
-
-Resources:
-
+  
+Part 3:
+Your blog should be:
+  - 3-5 minute read
+  - Free of gramatical errors
+  - Include resources and or screenshots
 
 
 
