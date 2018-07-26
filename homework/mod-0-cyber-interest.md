@@ -3,10 +3,15 @@
 Cyber Security is a very big and exciting subject area. Do some research and find a few topics you are interested in learning more about.
 
 Part 1: 
-Find a current or recent technology related job posting that would be your "ideal job". Prefferably something that has to do with Cyber Security, however it could be any job in the technology field. Explain why this job is interesting to you and what skills, qualifications, or job requirments they list. 
+Find a current or recent technology related job posting that would be your "ideal job" or something that seems interesting. Prefferably something that has to do with Cyber Security, however it could be any job in the technology field. Explain why this job is interesting to you and what skills, qualifications, or job requirments they list. Here some resources to help you start. 
+
+https://www.indeed.com/q-Cyber-Security-jobs.html
+https://www.cybercareers.gov/job-seeker/
+https://www.usajobs.gov/Search/?k=cyber%20security
+https://www.glassdoor.com/Job/honolulu-cyber-security-jobs-SRCH_IL.0,8_IC1140656_KO9,23.htm
 
 Part 2:
-Pick 2-3 of the following topics (or something else related to Cyber Security!) that you are personally interested in, and do some research on them. Explain what is interesting and what you want to know more about. Be Specific!!
+Pick 2-3 of the following topics (or if you have another technology related interest!) that you are personally interested in, and do some research on them. Explain what is interesting and what you want to know more about. Be Specific!!
 
 
 Some Example topics to pick from:
@@ -32,6 +37,4 @@ Your blog should be:
   - 3-5 minute read
   - Free of gramatical errors
   - Include resources and or screenshots
-
-
 
