@@ -1,1 +1,1 @@
-#Class Briefing Week 2 8/13/18
+# Class Briefing Week 2 8/13/18
