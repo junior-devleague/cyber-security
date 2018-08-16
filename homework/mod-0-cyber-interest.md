@@ -1,9 +1,9 @@
 # Find Your Cyber Security Interest
 
-Cyber Security is a very big and exciting subject area. Do some research and find a few topics you are interested in learning more about.
+Cyber Security is a very big and exciting subject area. Do some research and find a few topics you are interested in learning more about. Write a blog on the following:
 
 Part 1: 
-Find a current or recent technology related job posting that would be your "ideal job" or something that seems interesting. Prefferably something that has to do with Cyber Security, however it could be any job in the technology field. Explain why this job is interesting to you and what skills, qualifications, or job requirments they list. Here some resources to help you start. 
+Find a current or recent technology related job posting that would be your "ideal job" or something that seems interesting. It should be something related to Cyber Security. Explain why this job is interesting to you and what skills, qualifications, or job requirments they list. Here some resources to help you start. 
 
 https://www.indeed.com/q-Cyber-Security-jobs.html
 https://www.cybercareers.gov/job-seeker/
