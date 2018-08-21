@@ -1,4 +1,11 @@
-## Class Briefing Week 2 8/15/18
+## Class Briefing Week 3 - 8/20/18
+We covered the following topics:
+* Talked about the [16-year-old that hacked into Apple's Servers.](https://thehackernews.com/2018/08/apple-hack-servers.html)
+* Presented slideshow about [Ethics](https://slides.com/jocelyndevleague/ethics)
+
+**No Homework**
+
+## Class Briefing Week 2 - 8/15/18
 We covered the following topics:
 * Reviewed how to use slack.
   * Code/text snippets
@@ -17,7 +24,7 @@ We covered the following topics:
  - Edit your blog if already turned in.
  - Complete your blog following the new guidelines if you haven't done it yet.
 
-## Class Briefing Week 2 8/13/18
+## Class Briefing Week 2 - 8/13/18
 Today was first day of Jr. Devleague instruction. We went over the following topics:
 - Slack & code of conduct. Mrs. Takara had everyone signed up for slack. Reminded students that we need to collect Slack forms by Monday 8/20/18.
 - Class syllabus. Expectations of students & signing the cyber code of conduct. You MUST have the syllabus formed signed and returned by Monday 8/20/18.
