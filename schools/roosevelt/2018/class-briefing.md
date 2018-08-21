@@ -1,3 +1,7 @@
+## Class Briefing Week 3 - 8/20/18
+We went over the following topics:
+* Played Kahoot! to review what will be covered in class.
+
 ## Class Briefing Week 2 - 8/15/18
 We went over the following topics:
 * Class syllabus. Expectations of students & signing the cyber code of conduct. You MUST have the syllabus formed signed and returned by Monday 8/20/18.
