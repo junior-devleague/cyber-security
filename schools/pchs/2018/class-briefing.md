@@ -1,3 +1,10 @@
+## Class Briefing Week 3 - 8/21/18
+We covered the following topics:
+* Talked about the [16-year-old that hacked into Apple's Servers.](https://thehackernews.com/2018/08/apple-hack-servers.html)
+* Presented [slideshow about Ethics](https://slides.com/jocelyndevleague/ethics)
+
+**No Homework**
+
 ## Class Briefing Week 2 - 8/16/18
 We covered the following topics:
 * What is cybersecurity?
