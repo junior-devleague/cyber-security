@@ -21,21 +21,28 @@ Pick 2-3 of the following topics (or if you have another technology related inte
 
 Some Example topics to pick from:
 
-  - How cyber security relates to what you are interested in (video games, sports, robotics, etc.)
-  - Cryptocurrency
-  - Networking and network security
-  - Types of cyber attacks, malware, viruses, etc.
-  - Linux
-  - Scripting
-  - Cryptography
-  - Becoming anonymous online
-  - Python Programming for Cyber Security
-  - Wireless Security
-  - Passwords
-  - Penetration Testing
-  - Web Application Hacking
-  - Digital Forensics
-  - Bug Bounties
+- Video games and security
+- Social engineering and convincing people to do things
+- Cryptocurrency (think bitcoin and blockchain)
+- Networking and network security
+- Physical security (Breaking into buildings)
+- Types of cyber attacks (Protecting and defending them)
+- Open Source Intelligence Gathering 
+- Malware analysis
+- How to use Linux Systems and the command line
+- Building secure websites
+- Scripting for automation
+- Cryptography & Encryption
+- How to be safe on the internet
+- Programming in Python
+- Wireless Security 
+- Passwords and learning how to crack them
+- Penetration Testing companies
+- How to do vulnerability scanning 
+- Web Application Hacking
+- Digital Forensics
+- Bug Bounties
+- How to use Kali Linux
   
   
 Part 3:
