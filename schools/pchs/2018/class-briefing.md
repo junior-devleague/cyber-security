@@ -1,9 +1,14 @@
 ## Class Briefing Week 3 - 8/21/18
-We covered the following topics:
+
+Tuesday 8.21.18
 * Talked about the [16-year-old that hacked into Apple's Servers.](https://thehackernews.com/2018/08/apple-hack-servers.html)
 * Presented [slideshow about Ethics](https://slides.com/jocelyndevleague/ethics)
+* Blogs were due today! [(instructions)](https://github.com/junior-devleague/cyber-security/blob/master/homework/mod-0-cyber-interest.md)
 
 **No Homework**
+
+Thursday & Friday
+- No class Hurricane Lane
 
 ## Class Briefing Week 2 - 8/16/18
 We covered the following topics:
