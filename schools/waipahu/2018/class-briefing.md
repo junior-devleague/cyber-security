@@ -1,9 +1,23 @@
 ## Class Briefing Week 3 - 8/20/18
-We covered the following topics:
+**Monday 8.20.18**
 * Talked about the [16-year-old that hacked into Apple's Servers.](https://thehackernews.com/2018/08/apple-hack-servers.html)
 * Presented slideshow about [Ethics](https://slides.com/jocelyndevleague/ethics)
 
-**No Homework**
+#### Homework: No Homework!
+
+**Wednesday 8.22.18**
+- Students picked a cyber related article to read and share with the class.
+- Then class discussed bug bounties and how they are programs where companies let people hack them to try and discover vulnerabilities.
+- For the last 20 minutes of class students worked on ethics Activity in Pairs
+https://drive.google.com/file/d/1ayYoeFnMn0LUJG0ZgQ-f6bd17HYScbE7/view
+
+#### Homework:
+If you did not finish the ethics activity in class please finish it over the long hurricane weekend and have completed by class on Monday
+
+**Friday 8.24.18**
+
+No Class - Hurricane Lane
+
 
 ## Class Briefing Week 2 - 8/15/18
 We covered the following topics:
