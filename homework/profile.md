@@ -10,4 +10,5 @@ Please create a word document of your findings but DO NOT turn it in to slack we
 
 Resources:
 https://www.youtube.com/watch?time_continue=127&v=lc7scxvKQOo
+
 https://blog.appsecco.com/open-source-intelligence-gathering-101-d2861d4429e3
