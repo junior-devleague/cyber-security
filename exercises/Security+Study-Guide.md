@@ -5,9 +5,9 @@
 #### Read:
   - The Preface
   - Introduction and look at exam readiness checklist
-  - Chapter 2
+  - Chapter 2 (Introduction to Security Terminology)
   - Virtualization
-  - (Optional) Read chapter 14 (we will not cover this in class)
+  - Read chapter 14 (we will not cover this in class)
 
 #### Assessment:
 https://drive.google.com/drive/u/1/folders/1ros2yDhEZhPIqQgwCroSsive4c4r0Ocz
@@ -26,19 +26,19 @@ CIA Triad (Confidentiality, Integrity, Availibility), Access Comtrols, Encryptio
   [Study Guide Specifically the section titled security basics](https://docs.google.com/document/d/1hXGyKDWdpJLKZWWuu5eVTh-N5simhpSlTTA-Z-dtCj0/edit#heading=h.9jy0u88oavdx)
 
 
-### Week 2
+
+### Week 2 (10/15/18)
 
 #### Read
-- Chapter 1
+- Chapter 1 (Networking Basics and Terminology)
 - Chapter 7 pg's 279 - 293
-- Chapter 8 
 
 #### Assessment
 https://drive.google.com/drive/u/1/folders/1ros2yDhEZhPIqQgwCroSsive4c4r0Ocz?ogsrc=32
 
 
 #### Keywords
-Hub, Switch, port security, VLANS, Router, Load Balancer, Firewall, Proxy Server, DNS round-robin, coaxial cable, twisted pair cable, Straight-through cables, crossover cables, fiber-optic cables, IP address, subnet mask, default gateway, loopback address, TCP, TCP/IP, UDP, ICMP, ARP, HTTP/HTTPS, DNS, SMTP, FTP, MAil Protocols, SSH, Telnet, SFTP, LDAP, NetBios, IPV4 & IPv6 , Host-based firewall, TCP Wrappers, HIDS, NIDS, IPS/IDS, Security hot-fix, Honeypot and Honeynet, Protocol analyzer, NAC, IPSec, TLS Encryption, Backdoor, privilege escalation, service pack, Antivirus, Packet-filtered firewall (stateless), stateful packet inspection firewall, application-layer firewall, IPTables, Types of Networks (LAN, WLAN, WAN), DMZ, Extranet, NAT, Web Application firewall, URL filter
+Hub, Switch, port security, VLANS, Router, Load Balancer, Firewall, Proxy Server, DNS round-robin, coaxial cable, twisted pair cable, Straight-through cables, crossover cables, fiber-optic cables, IP address, subnet mask, default gateway, loopback address, TCP, TCP/IP, UDP, ICMP, ARP, HTTP/HTTPS, DNS, SMTP, FTP, MAil Protocols, SSH, Telnet, SFTP, LDAP, NetBios, IPV4 & IPv6
 
 #### Additional Resources
 [Professor Messer Section 2 Technologies and Tools](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
@@ -46,3 +46,34 @@ Hub, Switch, port security, VLANS, Router, Load Balancer, Firewall, Proxy Server
 [Udacity Networking Course](https://www.udacity.com/course/computer-networking--ud436)
 
 [Microsoft Training](https://mva.microsoft.com/en-us/training-courses/networking-fundamentals-8249?l=vc8igMKy_304984382)
+
+### Week 3 (10/22/18)
+If you havent finished the reading from last week, I highly recommend doing that before moving on to this reading. Update your notes with keywords from the reading and from the in class lectures and labs. 
+
+#### Read
+- Chapter 8 (Securing the Network Infrastructure)
+- Chapter 4 (Types of Attacks)
+
+#### Assessment
+https://drive.google.com/drive/u/0/folders/1v3_xPMhmUSKkTS459gnisMv4mRmXGUfa?ogsrc=32
+
+#### Keywords
+TCP Wrappers, HIDS, NIDS, IPS/IDS, Security hot-fix, Honeypot and Honeynet, Protocol analyzer, NAC, IPSec, TLS Encryption, Backdoor, service pack, Antivirus, Host-based firewall, Packet-filtered firewall (stateless), stateful packet inspection firewall, application-layer firewall, IPTables, Types of Networks (LAN, WLAN, WAN), DMZ, Extranet, NAT, Web Application firewall, URL filter
+
+#### Additional Resources
+
+
+
+### Week 4 (10/29/18)
+
+#### Read
+- Chapter 5 (System Security Threats)
+- Chapter 6 (Mitigating Security Threats)
+
+#### Assessments
+
+#### Keywords
+Data Encryption, Privilege escalation, Virus, logic bomb, virus, trojan virus, spyware, adware, spam, rootkit, brute-force, botnet, rat, ketlogger, backdoor, ransomware, Bluetooth vulnerbailities, hardware vulnerabilities, software vulnerabilities
+
+#### Additional Resources 
+[Types of system security threats](https://blogs.cisco.com/smallbusiness/the-10-most-common-security-threats-explained)
