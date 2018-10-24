@@ -27,6 +27,8 @@ CIA Triad (Confidentiality, Integrity, Availibility), Access Comtrols, Encryptio
 
 
 
+
+
 ### Week 2 (10/15/18)
 
 #### Read
@@ -47,6 +49,9 @@ Hub, Switch, port security, VLANS, Router, Load Balancer, Firewall, Proxy Server
 
 [Microsoft Training](https://mva.microsoft.com/en-us/training-courses/networking-fundamentals-8249?l=vc8igMKy_304984382)
 
+
+
+
 ### Week 3 (10/22/18)
 If you havent finished the reading from last week, I highly recommend doing that before moving on to this reading. Update your notes with keywords from the reading and from the in class lectures and labs. 
 
@@ -58,22 +63,11 @@ If you havent finished the reading from last week, I highly recommend doing that
 https://drive.google.com/drive/u/0/folders/1v3_xPMhmUSKkTS459gnisMv4mRmXGUfa?ogsrc=32
 
 #### Keywords
-TCP Wrappers, HIDS, NIDS, IPS/IDS, Security hot-fix, Honeypot and Honeynet, Protocol analyzer, NAC, IPSec, TLS Encryption, Backdoor, service pack, Antivirus, Host-based firewall, Packet-filtered firewall (stateless), stateful packet inspection firewall, application-layer firewall, IPTables, Types of Networks (LAN, WLAN, WAN), DMZ, Extranet, NAT, Web Application firewall, URL filter
+TCP Wrappers, HIDS, NIDS, IPS/IDS, Security hot-fix, Honeypot and Honeynet, Protocol analyzer, NAC, IPSec, TLS Encryption, Backdoor, service pack, Antivirus, Host-based firewall, Packet-filtered firewall (stateless), stateful packet inspection firewall, application-layer firewall, IPTables, Types of Networks (LAN, WLAN, WAN), DMZ, Extranet, NAT, Web Application firewall, URL filter, social engineering, phishing, spear-phishing, shoulder surfing, dumpster diving, tailgating, whaling, vishing, Denial of Service (DoS) vs. Distributed Denial of Services (DDos), spoofing, sniffing, MiTM Attack, Arp Spoofing, DNS Poisoning, Domain Hijjacking, Port scanning attacks, client-side attacks, dictionary attack, brute-forcing attack, birthday attack, rainbow attack, sql injection, application attacks, cross-site scripting, command injection  
 
 #### Additional Resources
+[Types of attacks](https://www.rapid7.com/fundamentals/types-of-attacks/)
 
+[Man in The Middle attack](https://www.professormesser.com/security-plus/sy0-501/man-in-the-middle/)
 
-
-### Week 4 (10/29/18)
-
-#### Read
-- Chapter 5 (System Security Threats)
-- Chapter 6 (Mitigating Security Threats)
-
-#### Assessments
-
-#### Keywords
-Data Encryption, Privilege escalation, Virus, logic bomb, virus, trojan virus, spyware, adware, spam, rootkit, brute-force, botnet, rat, ketlogger, backdoor, ransomware, Bluetooth vulnerbailities, hardware vulnerabilities, software vulnerabilities
-
-#### Additional Resources 
-[Types of system security threats](https://blogs.cisco.com/smallbusiness/the-10-most-common-security-threats-explained)
+Professor Messer section 1.2 - attack types 
