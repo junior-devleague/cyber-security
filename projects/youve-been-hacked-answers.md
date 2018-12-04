@@ -1,7 +1,7 @@
 
 
 ### Some of My answers:
-	- Unplug the system from the internet
+  - Unplug the system from the internet
   - Start capturing network traffic (wirshark or netwflow) 
 	- Do Not Shut down the system because you will want to image the hard drive and see what the attacker did
 	- Have the user Change passwords for accounts or block access
