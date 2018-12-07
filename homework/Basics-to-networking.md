@@ -7,9 +7,11 @@ Your family is so proud of you, but they have no idea what it is that you actual
 
 Write a blog post describing everything to do with networks, but write it as though you are explaining it to your grandparents.  Your writing should be free of gramtical errors, easy to understand and at least a 3 minute read.
 
--Topics to Include:
+- Sample topics to Include:
 1. What is a network, the internet, and why are they important?
 1. What devices are required/found in a network? (Ex: End Devices)
 1. What physical connections are used in a network? (Ex: Fiber Optics)
-1. What is a WAN, WLAN, LAN, SAN and MAN?
+1. What are the different types of networks?
 1. Why are networks so important today?
+1. What is the OSI Model
+1. What are networking protocols
