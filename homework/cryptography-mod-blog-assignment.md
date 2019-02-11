@@ -16,9 +16,6 @@ Part 1: is to pick one cipher from this list and talk about the history of it, w
 Part 2: Create your own Cipher
 Be creative! Do not use one of the ciphers you researched and rea**l**ly try to create your own. It can be pictures (include a screenshot if you **d**raw it out), numbers, letters, alien language, whatever! Make sure to include your cipher, key, and a message. 
 
-Part 3:  Is to pick a cipher from the list at this site and write about it. Also include an example cipher to dec**o**de.
-http://www.cryptogram.org/resource-area/cipher-types/
-
 
 Extra Credit: Decipher this!
 
