@@ -78,6 +78,3 @@ Lis of tools to use: [Tools](https://www.softwaretestinghelp.com/penetration-tes
 List of Bug Bounties: [Bug Bounty list](https://hackerone.com/bug-bounty-programs)
 
 [Sample Report](http://www.niiconsulting.com/services/security-assessment/NII_Sample_PT_Report.pdf)
-
-## Part 3: Due Date
-This project is due the last week of school for Seniors (5/18/18)
